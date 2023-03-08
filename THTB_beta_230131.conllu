@@ -1,0 +1,2625 @@
+# sent_id = TH-001
+# text = Quamvis autem quosdam peccatores Deus ad se non convertat, sed in peccatis secundum eorum merita eos relinquat, non tamen eos ad peccandum inducit.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_1,Sentence_1
+1	Quamvis	quamvis	SCONJ	c--------	_	9	mark	_	_
+2	autem	autem	CCONJ	c--------	_	25	cc	_	_
+3	quosdam	quidam	DET	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	det	_	_
+4	peccatores	peccator	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+5	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+6	ad	ad	ADP	r--------	_	7	case	_	_
+7	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	obl	_	_
+8	non	non	PART	d--------	_	9	advmod	_	_
+9	convertat	converto	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	18	punct	_	_
+11	sed	sed	CCONJ	c--------	_	9	cc	_	_
+12	in	in	ADP	r--------	_	13	case	_	_
+13	peccatis	peccatum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	18	obl	_	_
+14	secundum	secundum	ADP	r--------	_	16	case	_	_
+15	eorum	is	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|Person=3	16	nmod	_	_
+16	merita	meritum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	18	obl	_	_
+17	eos	is	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=3	18	obj	_	_
+18	relinquat	relinquo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	18	punct	_	_
+20	non	non	PART	d--------	_	25	advmod	_	_
+21	tamen	tamen	ADV	d--------	_	25	advmod	_	_
+22	eos	is	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=3	25	obj	_	_
+23	ad	ad	ADP	r--------	_	24	mark	_	_
+24	peccandum	pecco	VERB	v------a-	Case=Acc|VerbForm=Ger	25	advcl	_	_
+25	inducit	induco	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	u--------	_	25	punct	_	_
+
+# sent_id = TH-002
+# text = Homines enim peccant per hoc quod deviant ab ipso, qui est ultimus finis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_2,Sentence_1
+1	Homines	homo	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	enim	enim	PART	c--------	_	3	discourse	_	_
+3	peccant	pecco	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	per	per	ADP	r--------	_	5	case	_	_
+5	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+6	quod	quod	SCONJ	c--------	_	7	mark	_	_
+7	deviant	devio	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+8	ab	ab	ADP	r--------	_	9	case	_	_
+9	ipso	ipse	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	14	punct	_	_
+11	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+13	ultimus	ultimus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	_
+14	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	acl	_	SpaceAfter=No
+15	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-003
+# text = Cum autem omne agens agat ad proprium finem et sibi convenientem, impossibile est quod, Deo agente, aliqui avertantur ab ultimo fine qui Deus est.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_2,Sentence_2
+1	Cum	cum	SCONJ	c--------	_	5	mark	_	_
+2	autem	autem	CCONJ	c--------	_	13	cc	_	_
+3	omne	omnis	DET	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	det	_	_
+4	agens	ago	VERB	v-sppann-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	_
+5	agat	ago	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+6	ad	ad	ADP	r--------	_	8	case	_	_
+7	proprium	proprius	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+9	et	et	CCONJ	c--------	_	10	cc	_	_
+10	sibi	sui	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	11	obj	_	_
+11	convenientem	convenio	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	conj	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	13	punct	_	_
+13	impossibile	impossibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+14	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+15	quod	quod	SCONJ	c--------	_	21	mark	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	18	punct	_	_
+17	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	agente	ago	VERB	v-sppamb-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	18	punct	_	_
+20	aliqui	aliquis	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	_
+21	avertantur	averto	VERB	v3ppsp---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	csubj	_	_
+22	ab	ab	ADP	r--------	_	24	case	_	_
+23	ultimo	ultimus	ADJ	a-s---mbs	Case=Abl|Degree=Sup|Gender=Masc|Number=Sing	24	amod	_	_
+24	fine	finis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	21	obl	_	_
+25	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+26	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	24	acl	_	_
+27	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	cop	_	SpaceAfter=No
+28	.	.	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = TH-004
+# text = Impossibile est igitur quod Deus aliquos faciat peccare: esset enim facere contra se ipsum et contra naturam suam.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_3,Sentence_1
+1	Impossibile	impossibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
+3	igitur	igitur	PART	d--------	_	1	discourse	_	_
+4	quod	quod	SCONJ	c--------	_	7	mark	_	_
+5	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	aliquos	aliquis	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	_
+7	faciat	facio	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	_
+8	peccare	pecco	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	SpaceAfter=No
+9	:	:	PUNCT	u--------	_	12	punct	_	_
+10	esset	sum	AUX	v3sisa---	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	enim	enim	PART	c--------	_	12	discourse	_	_
+12	facere	facio	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	_
+13	contra	contra	ADP	r--------	_	14	case	_	_
+14	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obl	_	_
+15	ipsum	ipse	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	det	_	_
+16	et	et	CCONJ	c--------	_	18	cc	_	_
+17	contra	contra	ADP	r--------	_	18	case	_	_
+18	naturam	natura	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	conj	_	_
+19	suam	suus	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	det	_	SpaceAfter=No
+20	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-005
+# text = Et cum Deus sit summe bonus, bonum autem non possit esse causa mali, peccare vero sit hominis malum, utpote contrarium hominis bono quod est vivere secundum rationem, impossibile est quod Deus sit homini causa peccandi.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_3,Sentence_2
+1	Et	et	CCONJ	c--------	_	32	cc	_	_
+2	cum	cum	SCONJ	c--------	_	6	mark	_	_
+3	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	summe	summe	ADV	d--------	_	6	advmod	_	_
+6	bonus	bonus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	32	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	11	punct	_	_
+8	bonum	bonum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	11	nsubj	_	_
+9	autem	autem	CCONJ	c--------	_	11	cc	_	_
+10	non	non	PART	d--------	_	11	advmod	_	_
+11	possit	possum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+12	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	cop	_	_
+13	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	xcomp	_	_
+14	mali	malum	NOUN	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	16	punct	_	_
+16	peccare	pecco	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	20	nsubj	_	_
+17	vero	vero	ADV	d--------	_	20	advmod	_	_
+18	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+19	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
+20	malum	malum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	22	punct	_	_
+22	utpote	utpote	SCONJ	d--------	_	23	mark	_	_
+23	contrarium	contrarius	ADJ	a-s---na-	Case=Nom|Gender=Neut|Number=Sing	16	amod	_	_
+24	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
+25	bono	bonum	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	23	obl	_	_
+26	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	28	nsubj	_	_
+27	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	_
+28	vivere	vivo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	25	acl	_	_
+29	secundum	secundum	ADP	r--------	_	30	case	_	_
+30	rationem	ratio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	28	obl	_	SpaceAfter=No
+31	,	,	PUNCT	u--------	_	31	punct	_	_
+32	impossibile	impossibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+33	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	_
+34	quod	quod	SCONJ	c--------	_	38	mark	_	_
+35	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	_
+36	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	_
+37	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	38	obl	_	_
+38	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	32	csubj	_	_
+39	peccandi	pecco	VERB	v---–--g-	Case=Gen|VerbForm=Ger	38	advcl	_	SpaceAfter=No
+40	.	.	PUNCT	u--------	_	31	punct	_	_
+
+# sent_id = TH-006
+# text = Et praeterea peccatum omne ex aliquo defectu provenit proximi agentis, non autem ex influentia primi agentis:
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_4,Sentence_1
+1	Et	et	CCONJ	c--------	_	8	cc	_	_
+2	praeterea	praeterea	ADV	d--------	_	8	advmod	_	_
+3	peccatum	peccatum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+4	omne	omnis	DET	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+5	ex	ex	ADP	r--------	_	7	case	_	_
+6	aliquo	aliquis	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	det	_	_
+7	defectu	defectus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	provenit	provenio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	proximi	proximus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	10	amod	_	_
+10	agentis	ago	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	15	punct	_	_
+12	non	non	PART	d--------	_	15	advmod	_	_
+13	autem	autem	CCONJ	c--------	_	15	cc	_	_
+14	ex	ex	ADP	r--------	_	15	case	_	_
+15	influentia	influentia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	conj	_	_
+16	primi	primus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	17	amod	_	_
+17	agentis	ago	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	nmod	_	SpaceAfter=No
+18	:	:	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = TH-007
+# text = sicut peccatum claudicationis provenit ex indispositione tibiae, non autem ex virtute motiva, cum tamen ex ea sit quicquid de perfectione motus in claudicatione apparet.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_4,Sentence_2
+1	sicut	sicut	ADV	d--------	_	4	advmod	_	_
+2	peccatum	peccatum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	claudicationis	claudicatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	provenit	provenio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ex	ex	ADP	r--------	_	6	case	_	_
+6	indispositione	indispositio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	obl	_	_
+7	tibiae	tibia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	12	punct	_	_
+9	non	non	PART	d--------	_	12	advmod	_	_
+10	autem	autem	CCONJ	c--------	_	12	cc	_	_
+11	ex	ex	ADP	r--------	_	12	case	_	_
+12	virtute	virtus	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	conj	_	_
+13	motiva	motivus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	20	punct	_	_
+15	cum	cum	SCONJ	c--------	_	19	mark	_	_
+16	tamen	tamen	ADV	d--------	_	20	advmod	_	_
+17	ex	ex	ADP	r--------	_	18	case	_	_
+18	ea	is	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|Person=3	20	obl	_	_
+19	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+20	quicquid	quisquis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+21	de	de	ADP	r--------	_	22	case	_	_
+22	perfectione	perfectio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	26	obl	_	_
+23	motus	motus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+24	in	in	ADP	r--------	_	25	case	_	_
+25	claudicatione	claudicatio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	26	obl	_	_
+26	apparet	appareo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	SpaceAfter=No
+27	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-008
+# text = Proximum autem agens peccati humana est voluntas.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_5,Sentence_1
+1	Proximum	proximus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+2	autem	autem	CCONJ	c--------	_	7	cc	_	_
+3	agens	ago	VERB	v-sppann-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	nsubj	_	_
+4	peccati	peccatum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	humana	humanus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	_
+6	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	voluntas	voluntas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-009
+# text = Igitur defectus peccati est ex voluntate hominis, non autem a Deo qui est primum agens, a quo tamen est quicquid ad perfectionem actionis pertinet in actu peccati.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_5,Sentence_2
+1	Igitur	igitur	PART	d--------	_	6	discourse	_	_
+2	defectus	defectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+3	peccati	peccatum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	ex	ex	ADP	r--------	_	6	case	_	_
+6	voluntate	voluntas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	0	root	_	_
+7	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	16	punct	_	_
+9	non	non	PART	d--------	_	12	advmod	_	_
+10	autem	autem	CCONJ	c--------	_	12	cc	_	_
+11	a	ab	ADP	r--------	_	12	case	_	_
+12	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	conj	_	_
+13	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+14	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+15	primum	primus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	16	amod	_	_
+16	agens	ago	VERB	v-sppann-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	26	punct	_	_
+18	a	ab	ADP	r--------	_	19	case	_	_
+19	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	22	obl	_	_
+20	tamen	tamen	ADV	d--------	_	22	advmod	_	_
+21	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
+22	quicquid	quisquis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+23	ad	ad	ADP	r--------	_	24	case	_	_
+24	perfectionem	perfectio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	_
+25	actionis	actio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	24	nmod	_	_
+26	pertinet	pertineo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	_
+27	in	in	ADP	r--------	_	28	case	_	_
+28	actu	actus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	26	obl	_	_
+29	peccati	peccatum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	28	nmod	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-010
+# text = Ideo dicit apostolus Iacobus: «Nemo, cum temptatur, dicat quoniam a Deo temptatur; Deus enim intemptator malorum est».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_6,Sentence_1
+1	Ideo	ideo	ADV	d--------	_	2	discourse	_	_
+2	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	Iacobus	Iacob	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	flat	_	SpaceAfter=No
+5	:	:	PUNCT	u--------	_	12	punct	_	_
+6	«	«	PUNCT	u--------	_	12	punct	_	SpaceAfter=No
+7	Nemo	nemo	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	10	punct	_	_
+9	cum	cum	SCONJ	c--------	_	10	mark	_	_
+10	temptatur	tempto	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	10	punct	_	_
+12	dicat	dico	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+13	quoniam	quoniam	SCONJ	c--------	_	16	mark	_	_
+14	a	ab	ADP	r--------	_	15	case	_	_
+15	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	16	obl	_	_
+16	temptatur	tempto	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	ccomp	_	SpaceAfter=No
+17	;	;	PUNCT	u--------	_	12	punct	_	_
+18	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+19	enim	enim	PART	c--------	_	20	discourse	_	_
+20	intemptator	intemptator	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	parataxis	_	_
+21	malorum	malum	NOUN	n-p---mg-	Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
+22	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	SpaceAfter=No
+23	»	»	PUNCT	u--------	_	12	punct	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-011
+# text = Et in Ecclesiastico: «Nemini mandavit Deus impie agere, et nemini dedit spatium peccandi».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_7,Sentence_1
+1	Et	et	CCONJ	c--------	_	3	cc	_	_
+2	in	in	ADP	r--------	_	3	case	_	_
+3	Ecclesiastico	Ecclesiasticus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	7	punct	_	_
+5	«	«	PUNCT	u--------	_	7	punct	_	SpaceAfter=No
+6	Nemini	nemo	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
+7	mandavit	mando	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+8	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	impie	impie	ADV	d--------	_	10	advmod	_	_
+10	agere	ago	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	14	punct	_	_
+12	et	et	CCONJ	c--------	_	14	cc	_	_
+13	nemini	nemo	PRON	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+14	dedit	do	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	spatium	spatium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+16	peccandi	pecco	VERB	v---–--g-	Case=Gen|VerbForm=Ger	14	advcl	_	SpaceAfter=No
+17	»	»	PUNCT	u--------	_	7	punct	_	SpaceAfter=No
+18	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-012
+# text = Inveniuntur tamen quaedam in Scripturis ex quibus videtur quod Deus sit aliquibus causa peccandi.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_8,Sentence_1
+1	Inveniuntur	invenio	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	tamen	tamen	ADV	d--------	_	1	advmod	_	_
+3	quaedam	quidam	DET	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	nsubj	_	_
+4	in	in	ADP	r--------	_	5	case	_	_
+5	Scripturis	scriptura	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	1	obl	_	_
+6	ex	ex	ADP	r--------	_	7	case	_	_
+7	quibus	qui	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	8	obl	_	_
+8	videtur	video	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	acl	_	_
+9	quod	quod	SCONJ	c--------	_	13	mark	_	_
+10	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+11	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	aliquibus	aliquis	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	_
+13	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	xcomp	_	_
+14	peccandi	pecco	VERB	v---–--g-	Case=Gen|VerbForm=Ger	13	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-013
+# text = Dicitur enim in Exodo: «Ego induravi cor Pharaonis et servorum illius».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_9,Sentence_1
+1	Dicitur	dico	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	enim	enim	PART	c--------	_	1	discourse	_	_
+3	in	in	ADP	r--------	_	4	case	_	_
+4	Exodo	Exodus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+5	:	:	PUNCT	u--------	_	8	punct	_	_
+6	«	«	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+7	Ego	ego	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1	8	nsubj	_	_
+8	induravi	induro	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+9	cor	cor	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+10	Pharaonis	Pharao	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	et	et	CCONJ	c--------	_	12	cc	_	_
+12	servorum	servus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	10	conj	_	_
+13	illius	ille	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	det	_	SpaceAfter=No
+14	»	»	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+15	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-014
+# text = Et Isaias: «Excaeca cor populi huius et aures eius aggrava, ne forte videant oculis suis et convertantur et sanem eos».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_10,Sentence_1
+1	Et	et	CCONJ	c--------	_	2	cc	_	_
+2	Isaias	Isaias	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	u--------	_	5	punct	_	_
+4	«	«	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+5	Excaeca	excaeco	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+6	cor	cor	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+7	populi	populus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	huius	hic	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
+9	et	et	CCONJ	c--------	_	12	cc	_	_
+10	aures	auris	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	_
+11	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
+12	aggrava	aggravo	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	16	punct	_	_
+14	ne	ne	SCONJ	c--------	_	16	mark	_	_
+15	forte	fors	ADV	d--------	_	16	advmod	_	_
+16	videant	video	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+17	oculis	oculus	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	16	obl	_	_
+18	suis	suus	DET	a-p---mb-	Case=Abl|Gender=Masc|Number=Plur	17	det	_	_
+19	et	et	CCONJ	c--------	_	20	cc	_	_
+20	convertantur	converto	VERB	v3ppsp---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	conj	_	_
+21	et	et	CCONJ	c--------	_	22	cc	_	_
+22	sanem	sano	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	_
+23	eos	is	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=3	22	obj	_	SpaceAfter=No
+24	»	»	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-015
+# text = Et rursus in Isaias: «Errare nos fecisti de viis tuis, indurasti cor nostrum, ne timeremus te».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_11,Sentence_1
+1	Et	et	CCONJ	c--------	_	4	cc	_	_
+2	rursus	rursus	ADV	d--------	_	4	advmod	_	_
+3	in	in	ADP	r--------	_	4	case	_	_
+4	Isaias	Isaias	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	u--------	_	9	punct	_	_
+6	«	«	PUNCT	u--------	_	9	punct	_	SpaceAfter=No
+7	Errare	erro	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+8	nos	nos	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=1	9	obj	_	_
+9	fecisti	facio	VERB	v2sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
+10	de	de	ADP	r--------	_	11	case	_	_
+11	viis	via	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	7	obl	_	_
+12	tuis	tuus	DET	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	11	det	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	14	punct	_	_
+14	indurasti	induro	VERB	v2sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+15	cor	cor	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+16	nostrum	noster	DET	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	det	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	19	punct	_	_
+18	ne	ne	SCONJ	c--------	_	19	mark	_	_
+19	timeremus	timeo	VERB	v1pisa---	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	_
+20	te	tu	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=2	19	obj	_	SpaceAfter=No
+21	»	»	PUNCT	u--------	_	9	punct	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-016
+# text = Et Apostolus: «Tradidit illos Deus in reprobum sensum, ut faciant ea quae non conveniunt».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_12,Sentence_1
+1	Et	et	CCONJ	c--------	_	2	cc	_	_
+2	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	u--------	_	5	punct	_	_
+4	«	«	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+5	Tradidit	trado	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+6	illos	ille	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	_
+7	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+8	in	in	ADP	r--------	_	10	case	_	_
+9	reprobum	reprobus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+10	sensum	sensus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	13	punct	_	_
+12	ut	ut	SCONJ	c--------	_	13	mark	_	_
+13	faciant	facio	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+14	ea	is	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|Person=3	13	obj	_	_
+15	quae	qui	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	nsubj	_	_
+16	non	non	PART	d--------	_	17	advmod	_	_
+17	conveniunt	convenio	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	SpaceAfter=No
+18	»	»	PUNCT	u--------	_	5	punct	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-017
+# text = Quae omnia secundum hoc intelligenda sunt, quod Deus aliquibus non confert auxilium ad vitandum peccatum, quod aliis quibusdam confert.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_12,Sentence_2
+1	Quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+2	omnia	omnis	DET	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	1	det	_	_
+3	secundum	secundum	ADP	r--------	_	4	case	_	_
+4	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+5	intelligenda	intellego	VERB	v-p---nn-	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Gdv	0	root	_	_
+6	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	12	punct	_	_
+8	quod	quod	SCONJ	c--------	_	12	mark	_	_
+9	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+10	aliquibus	aliquis	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	12	obl	_	_
+11	non	non	PART	d--------	_	12	advmod	_	_
+12	confert	confero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+13	auxilium	auxilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	ad	ad	ADP	r--------	_	15	mark	_	_
+15	vitandum	vito	VERB	v-s---na-	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Gdv	12	advcl	_	_
+16	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	21	punct	_	_
+18	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+19	aliis	alius	DET	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	20	det	_	_
+20	quibusdam	quidam	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	21	obl	_	_
+21	confert	confero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-018
+# text = Hoc autem auxilium non solum est infusio gratiae, sed etiam exterior custodia per quam occasiones peccandi homini ex divina providentia tolluntur et provocantia ad peccatum comprimuntur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_13,Sentence_1
+1	Hoc	hic	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
+2	autem	autem	CCONJ	c--------	_	7	cc	_	_
+3	auxilium	auxilium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+4	non	non	PART	d--------	_	5	advmod	_	_
+5	solum	solum	ADV	d--------	_	7	advmod	_	_
+6	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	infusio	infusio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+8	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	13	punct	_	_
+10	sed	sed	CCONJ	c--------	_	13	cc	_	_
+11	etiam	etiam	ADV	c--------	_	13	advmod	_	_
+12	exterior	exterior	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	13	amod	_	_
+13	custodia	custodia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+14	per	per	ADP	r--------	_	15	case	_	_
+15	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+16	occasiones	occasio	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	22	nsubj	_	_
+17	peccandi	pecco	VERB	v---–--g-	Case=Gen|VerbForm=Ger	22	advcl	_	_
+18	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	22	obl	_	_
+19	ex	ex	ADP	r--------	_	21	case	_	_
+20	divina	divinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	21	amod	_	_
+21	providentia	providentia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	obl	_	_
+22	tolluntur	tollo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	acl	_	_
+23	et	et	CCONJ	c--------	_	27	cc	_	_
+24	provocantia	provoco	VERB	v-pppann-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	27	advcl	_	_
+25	ad	ad	ADP	r--------	_	26	case	_	_
+26	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	27	obl	_	_
+27	comprimuntur	comprimo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	22	conj	_	SpaceAfter=No
+28	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-019
+# text = Adiuvat etiam Deus hominem contra peccatum per naturale lumen rationis et alia naturalia bona quae homini confert.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_14,Sentence_1
+1	Adiuvat	adiuvo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	etiam	etiam	ADV	c--------	_	1	advmod	_	_
+3	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+4	hominem	homo	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+5	contra	contra	ADP	r--------	_	6	case	_	_
+6	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+7	per	per	ADP	r--------	_	9	case	_	_
+8	naturale	naturalis	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+9	lumen	lumen	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+10	rationis	ratio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	et	et	CCONJ	c--------	_	14	cc	_	_
+12	alia	alius	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	det	_	_
+13	naturalia	naturalis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	14	amod	_	_
+14	bona	bonum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	conj	_	_
+15	quae	qui	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	_
+16	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+17	confert	confero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	SpaceAfter=No
+18	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-020
+# text = Cum ergo haec auxilia aliquibus subtrahit pro merito suae actionis, secundum quod eius iustitia exigit, dicitur eos obdurare vel excaecare vel aliquid aliud eorum quae dicta sunt.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_15,Sentence_1
+1	Cum	cum	SCONJ	c--------	_	6	mark	_	_
+2	ergo	ergo	ADV	d--------	_	18	discourse	_	_
+3	haec	hic	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	auxilia	auxilium	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+5	aliquibus	aliquis	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	6	obl	_	_
+6	subtrahit	subtraho	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+7	pro	pro	ADP	r--------	_	8	case	_	_
+8	merito	meritum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+9	suae	suus	DET	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	det	_	_
+10	actionis	actio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	16	punct	_	_
+12	secundum	secundum	ADP	r--------	_	16	case	_	_
+13	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obl	_	_
+14	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
+15	iustitia	iustitia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
+16	exigit	exigo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	6	punct	_	_
+18	dicitur	dico	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+19	eos	is	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=3	20	obj	_	_
+20	obdurare	obduro	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	_
+21	vel	vel	CCONJ	c--------	_	22	cc	_	_
+22	excaecare	excaeco	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	20	conj	_	_
+23	vel	vel	CCONJ	c--------	_	24	cc	_	_
+24	aliquid	aliquis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	20	conj	_	_
+25	aliud	alius	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	24	det	_	_
+26	eorum	is	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|Person=3	24	nmod	_	_
+27	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	28	nsubj	_	_
+28	dicta	dico	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	26	acl	_	_
+29	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	aux	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	18	punct	_	_
+
+# sent_id = TH-021
+# text = Et quia ostensum est quod divina operatione aliqui diriguntur in ultimum finem per gratiam adiuti, alii vero eodem auxilio deserti ab ultimo fine decidunt;
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_16,Sentence_1
+1	Et	et	CCONJ	c--------	_	25	cc	_	_
+2	quia	quia	SCONJ	c--------	_	3	mark	_	_
+3	ostensum	ostendo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	advcl	_	_
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+5	quod	quod	SCONJ	c--------	_	9	mark	_	_
+6	divina	divinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	amod	_	_
+7	operatione	operatio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+8	aliqui	aliquis	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	diriguntur	dirigo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	csubj	_	_
+10	in	in	ADP	r--------	_	12	case	_	_
+11	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	_
+12	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+13	per	per	ADP	r--------	_	14	case	_	_
+14	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+15	adiuti	adiuvo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	8	acl	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	15	punct	_	_
+17	alii	alius	DET	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	25	nsubj	_	_
+18	vero	vero	ADV	d--------	_	25	advmod	_	_
+19	eodem	idem	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	20	det	_	_
+20	auxilio	auxilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	21	obl	_	_
+21	deserti	desero	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+22	ab	ab	ADP	r--------	_	24	case	_	_
+23	ultimo	ultimus	ADJ	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	24	amod	_	_
+24	fine	finis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	25	obl	_	_
+25	decidunt	decido	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+26	;	;	PUNCT	u--------	_	25	punct	_	_
+
+# sent_id = TH-022
+# text = omnia autem quae a Deo aguntur ab aeterno per eius sapientiam provisa et ordinata sunt; necesse est praedictam hominum distinctionem ab aeterno a Deo esse ordinatam.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_17,Sentence_1
+1	omnia	omnis	DET	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	12	cc	_	_
+3	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+4	a	ab	ADP	r--------	_	5	case	_	_
+5	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	_
+6	aguntur	ago	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	_
+7	ab	ab	ADP	r--------	_	8	case	_	_
+8	aeterno	aeternus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+9	per	per	ADP	r--------	_	11	case	_	_
+10	eius	is	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	_
+11	sapientiam	sapientia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	_
+12	provisa	provideo	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	et	et	CCONJ	c--------	_	14	cc	_	_
+14	ordinata	ordino	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	12	conj	_	_
+15	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	SpaceAfter=No
+16	;	;	PUNCT	u--------	_	12	punct	_	_
+17	necesse	necesse	ADJ	a-s---nn-	_	12	parataxis	_	_
+18	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
+19	praedictam	praedico	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+20	hominum	homo	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	_
+21	distinctionem	distinctio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	27	nsubj	_	_
+22	ab	ab	ADP	r--------	_	23	case	_	_
+23	aeterno	aeternus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	27	obl	_	_
+24	a	ab	ADP	r--------	_	25	case	_	_
+25	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	27	obl	_	_
+26	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	27	aux	_	_
+27	ordinatam	ordino	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	csubj	_	SpaceAfter=No
+28	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = TH-023
+# text = Secundum ergo quod quosdam ab aeterno ordinavit ut dirigendos in ultimum finem, dicitur eos praedestinasse.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_17,Sentence_2
+1	Secundum	secundum	ADP	r--------	_	7	mark	_	_
+2	ergo	ergo	ADV	d--------	_	14	discourse	_	_
+3	quod	quod	SCONJ	c--------	_	1	fixed	_	_
+4	quosdam	quidam	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	_
+5	ab	ab	ADP	r--------	_	6	case	_	_
+6	aeterno	aeternus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	7	obl	_	_
+7	ordinavit	ordino	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+8	ut	ut	SCONJ	c--------	_	9	mark	_	_
+9	dirigendos	dirigo	VERB	v-p---ma-	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Gdv	7	advcl	_	_
+10	in	in	ADP	r--------	_	12	case	_	_
+11	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	_
+12	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	13	punct	_	_
+14	dicitur	dico	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+15	eos	is	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=3	16	nsubj	_	_
+16	praedestinasse	praedestino	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-024
+# text = Unde Apostolus: «Qui praedestinavit nos in adoptionem filiorum, secundum propositum voluntatis suae».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_18,Sentence_1
+1	Unde	unde	ADV	d--------	_	2	advmod	_	_
+2	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	u--------	_	6	punct	_	_
+4	«	«	PUNCT	u--------	_	6	punct	_	SpaceAfter=No
+5	Qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	praedestinavit	praedestino	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+7	nos	nos	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=1	6	obj	_	_
+8	in	in	ADP	r--------	_	9	case	_	_
+9	adoptionem	adoptio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+10	filiorum	filius	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	13	punct	_	_
+12	secundum	secundum	ADP	r--------	_	13	case	_	_
+13	propositum	propositum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
+14	voluntatis	voluntas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+15	suae	suus	DET	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	det	_	SpaceAfter=No
+16	»	»	PUNCT	u--------	_	6	punct	_	SpaceAfter=No
+17	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-025
+# text = Illos autem quibus ab aeterno disposuit se gratiam non daturum, dicitur reprobasse vel odio habuisse, secundum illud Malachie: «Iacob dilexi, Esau autem odio habui».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_19,Sentence_1
+1	Illos	ille	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	6	cc	_	_
+3	quibus	qui	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	6	obl	_	_
+4	ab	ab	ADP	r--------	_	5	case	_	_
+5	aeterno	aeternus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+6	disposuit	dispono	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	_
+7	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+8	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+9	non	non	PART	d--------	_	10	advmod	_	_
+10	daturum	do	VERB	v-sfpama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	6	xcomp	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	12	punct	_	_
+12	dicitur	dico	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+13	reprobasse	reprobo	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+14	vel	vel	CCONJ	c--------	_	16	cc	_	_
+15	odio	odium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	16	advmod	_	_
+16	habuisse	habeo	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	19	punct	_	_
+18	secundum	secundum	ADP	r--------	_	19	case	_	_
+19	illud	ille	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obl	_	_
+20	Malachie	Malachie	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+21	:	:	PUNCT	u--------	_	24	punct	_	_
+22	«	«	PUNCT	u--------	_	24	punct	_	SpaceAfter=No
+23	Iacob	Iacob	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	24	obj	_	_
+24	dilexi	diligo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	19	parataxis	_	SpaceAfter=No
+25	,	,	PUNCT	u--------	_	29	punct	_	_
+26	Esau	Esau	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	29	obj	_	_
+27	autem	autem	CCONJ	c--------	_	29	cc	_	_
+28	odio	odium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	29	obl	_	_
+29	habui	habeo	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	24	conj	_	SpaceAfter=No
+30	»	»	PUNCT	u--------	_	24	punct	_	SpaceAfter=No
+31	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = TH-026
+# text = Ratione vero istius distinctionis – secundum quod quosdam reprobavit et quosdam praedestinavit – attenditur divina electio, de qua dicit Apostolus: «Elegit nos in ipso ante mundi constitutionem».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_20,Sentence_1
+1	Ratione	ratio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	14	obl	_	_
+2	vero	vero	ADV	d--------	_	14	discourse	_	_
+3	istius	iste	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
+4	distinctionis	distinctio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+5	–	–	PUNCT	u--------	_	9	punct	_	_
+6	secundum	secundum	ADP	r--------	_	9	mark	_	_
+7	quod	quod	SCONJ	c--------	_	6	fixed	_	_
+8	quosdam	quidam	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
+9	reprobavit	reprobo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+10	et	et	CCONJ	c--------	_	9	cc	_	_
+11	quosdam	quidam	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	_
+12	praedestinavit	praedestino	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	_
+13	–	–	PUNCT	u--------	_	9	punct	_	_
+14	attenditur	attendo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+15	divina	divinus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	16	amod	_	_
+16	electio	electio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	20	punct	_	_
+18	de	de	ADP	r--------	_	19	case	_	_
+19	qua	qui	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+20	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl	_	_
+21	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+22	:	:	PUNCT	u--------	_	24	punct	_	_
+23	«	«	PUNCT	u--------	_	24	punct	_	SpaceAfter=No
+24	Elegit	eligo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+25	nos	nos	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=1	24	obj	_	_
+26	in	in	ADP	r--------	_	27	case	_	_
+27	ipso	ipse	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	_
+28	ante	ante	ADP	r--------	_	30	case	_	_
+29	mundi	mundus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
+30	constitutionem	constitutio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+31	»	»	PUNCT	u--------	_	24	punct	_	SpaceAfter=No
+32	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-027
+# text = Sic igitur patet quod praedestinatio et electio et reprobatio est quaedam pars divinae providentiae, secundum quam homines ex divina providentia ordinantur in ultimum finem.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_21,Sentence_1
+1	Sic	sic	ADV	d--------	_	3	advmod	_	_
+2	igitur	igitur	PART	d--------	_	3	discourse	_	_
+3	patet	pateo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	quod	quod	SCONJ	c--------	_	12	mark	_	_
+5	praedestinatio	praedestinatio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+6	et	et	CCONJ	c--------	_	7	cc	_	_
+7	electio	electio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+8	et	et	CCONJ	c--------	_	9	cc	_	_
+9	reprobatio	reprobatio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
+10	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
+11	quaedam	quidam	DET	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	det	_	_
+12	pars	pars	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	csubj	_	_
+13	divinae	divinus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	amod	_	_
+14	providentiae	providentia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	22	punct	_	_
+16	secundum	secundum	ADP	r--------	_	17	case	_	_
+17	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	22	obl	_	_
+18	homines	homo	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+19	ex	ex	ADP	r--------	_	21	case	_	_
+20	divina	divinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	21	amod	_	_
+21	providentia	providentia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	obl	_	_
+22	ordinantur	ordino	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl	_	_
+23	in	in	ADP	r--------	_	25	case	_	_
+24	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	25	amod	_	_
+25	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
+26	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-028
+# text = Unde per eadem manifestum esse potest quod praedestinatio et electio necessitatem non inducunt, cum divina providentia non auferat contingentiam a rebus.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_22,Sentence_1
+1	Unde	unde	ADV	d--------	_	6	advmod	_	_
+2	per	per	ADP	r--------	_	3	case	_	_
+3	eadem	idem	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
+4	manifestum	manifestus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	xcomp	_	_
+5	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	_
+6	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	quod	quod	SCONJ	c--------	_	13	mark	_	_
+8	praedestinatio	praedestinatio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+9	et	et	CCONJ	c--------	_	10	cc	_	_
+10	electio	electio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	conj	_	_
+11	necessitatem	necessitas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+12	non	non	PART	d--------	_	13	advmod	_	_
+13	inducunt	induco	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	19	punct	_	_
+15	cum	cum	SCONJ	c--------	_	19	mark	_	_
+16	divina	divinus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	amod	_	_
+17	providentia	providentia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+18	non	non	PART	d--------	_	19	advmod	_	_
+19	auferat	aufero	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+20	contingentiam	contingentia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+21	a	ab	ADP	r--------	_	22	case	_	_
+22	rebus	res	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-029
+# text = Quod autem praedestinatio et electio causam non habent ex aliquibus humanis meritis potest fieri manifestum non solum ex hoc quod gratia Dei, quae est predestinationis effectus, meritis non prevenitur sed omnia merita precedit humana, ut supra ostensum est et infra adhuc dicetur, sed etiam manifestari potest ex hoc quod divina voluntas et providentia est prima causa eorum quae fiunt;
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_23,Sentence_1
+1	Quod	quod	SCONJ	c--------	_	8	mark	_	_
+2	autem	autem	CCONJ	c--------	_	13	cc	_	_
+3	praedestinatio	praedestinatio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+4	et	et	CCONJ	c--------	_	5	cc	_	_
+5	electio	electio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	_
+6	causam	causa	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+7	non	non	PART	d--------	_	8	advmod	_	_
+8	habent	habeo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	_
+9	ex	ex	ADP	r--------	_	12	case	_	_
+10	aliquibus	aliqui	DET	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	12	det	_	_
+11	humanis	humanus	ADJ	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur	12	amod	_	_
+12	meritis	meritum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	8	obl	_	_
+13	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	fieri	fio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	13	xcomp	_	_
+15	manifestum	manifestus	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	14	xcomp	_	_
+16	non	non	PART	d--------	_	17	advmod	_	_
+17	solum	solum	ADV	d--------	_	19	advmod	_	_
+18	ex	ex	ADP	r--------	_	19	case	_	_
+19	hoc	hic	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	13	obl	_	_
+20	quod	quod	SCONJ	c--------	_	31	mark	_	_
+21	gratia	gratia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	31	nsubj	_	_
+22	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	u--------	_	27	punct	_	_
+24	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+25	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	cop	_	_
+26	predestinationis	predestinatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+27	effectus	effectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	21	acl	_	SpaceAfter=No
+28	,	,	PUNCT	u--------	_	21	punct	_	_
+29	meritis	meritum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	31	obl	_	_
+30	non	non	PART	d--------	_	31	advmod	_	_
+31	prevenitur	prevenio	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	_	_
+32	sed	sed	CCONJ	c--------	_	35	cc	_	_
+33	omnia	omnis	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	34	det	_	_
+34	merita	meritum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	35	obj	_	_
+35	precedit	praecedo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	conj	_	_
+36	humana	humanus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	34	amod	_	SpaceAfter=No
+37	,	,	PUNCT	u--------	_	40	punct	_	_
+38	ut	ut	SCONJ	c--------	_	40	mark	_	_
+39	supra	supra	ADV	d--------	_	40	advmod	_	_
+40	ostensum	ostendo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	35	advcl:cmpr	_	_
+41	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	aux	_	_
+42	et	et	CCONJ	c--------	_	45	cc	_	_
+43	infra	infra	ADV	d--------	_	45	advmod	_	_
+44	adhuc	adhuc	ADV	d--------	_	45	advmod	_	_
+45	dicetur	dico	VERB	v3sfip---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	40	conj	_	SpaceAfter=No
+46	,	,	PUNCT	u--------	_	40	punct	_	_
+47	sed	sed	CCONJ	c--------	_	50	cc	_	_
+48	etiam	etiam	ADV	c--------	_	50	advmod	_	_
+49	manifestari	manifesto	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	50	xcomp	_	_
+50	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
+51	ex	ex	ADP	r--------	_	52	case	_	_
+52	hoc	hic	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	50	obl	_	_
+53	quod	quod	SCONJ	c--------	_	60	mark	_	_
+54	divina	divinus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	55	amod	_	_
+55	voluntas	voluntas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	60	nsubj	_	_
+56	et	et	CCONJ	c--------	_	56	cc	_	_
+57	providentia	providentia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	55	conj	_	_
+58	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	60	cop	_	_
+59	prima	primus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	60	amod	_	_
+60	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	50	advcl	_	_
+61	eorum	is	PRON	p-p---fg-	Case=Gen|Gender=Neut|Number=Plur|Person=3	60	nmod	_	_
+62	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	63	nsubj	_	_
+63	fiunt	fio	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	61	acl	_	SpaceAfter=No
+64	;	;	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = TH-030
+# text = nihil autem potest esse causa voluntatis et providentiae divinae, licet effectuum providentiae et similiter predestinationis, unus possit alterius esse causa.
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_24,Sentence_1
+1	nihil	nihil	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	3	cc	_	_
+3	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	_
+5	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	_
+6	voluntatis	voluntas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	et	et	CCONJ	c--------	_	8	cc	_	_
+8	providentiae	providentia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+9	divinae	divinus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	19	punct	_	_
+11	licet	licet	SCONJ	c--------	_	19	mark	_	_
+12	effectuum	effectus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	nmod	_	_
+13	providentiae	providentia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+14	et	et	CCONJ	c--------	_	16	cc	_	_
+15	similiter	similis	ADV	d--------	_	16	advmod	_	_
+16	predestinationis	predestinatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	19	punct	_	_
+18	unus	unus	NUM	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	_
+19	possit	possum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
+20	alterius	alter	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+21	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	22	cop	_	_
+22	causa	causa	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	xcomp	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-031
+# text = «Quis enim» – ut Apostolus dicit –  «prior dedit illi et retribuetur ei? Quoniam ex ipso et in ipso et per ipsum sunt omnia. Ipsi honor et gloria in saecula saeculorum, amen».
+# citation_hierarchy = Liber_Primus,Capitulum_xxii,Paragraphus_25,Sentence_1
+1	«	«	PUNCT	u--------	_	2	punct	_	SpaceAfter=No
+2	Quis	quis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+3	enim	enim	PART	c--------	_	12	discourse	_	SpaceAfter=No
+4	»	»	PUNCT	u--------	_	2	punct	_	_
+5	–	–	PUNCT	u--------	_	8	punct	_	_
+6	ut	ut	SCONJ	c--------	_	8	mark	_	_
+7	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+8	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	–	–	PUNCT	u--------	_	8	punct	_	_
+10	«	«	PUNCT	u--------	_	12	punct	_	SpaceAfter=No
+11	prior	prior	ADJ	a-s---mnc	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	12	xcomp	_	_
+12	dedit	do	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	_
+13	illi	ille	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	12	obl	_	_
+14	et	et	CCONJ	c--------	_	15	cc	_	_
+15	retribuetur	retribuo	VERB	v3sfip---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	12	conj	_	_
+16	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	15	obl	_	SpaceAfter=No
+17	?	?	PUNCT	u--------	_	12	punct	_	_
+18	Quoniam	quoniam	SCONJ	c--------	_	28	mark	_	_
+19	ex	ex	ADP	r--------	_	20	case	_	_
+20	ipso	ipse	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	15	obl	_	_
+21	et	et	CCONJ	c--------	_	23	cc	_	_
+22	in	in	ADP	r--------	_	23	case	_	_
+23	ipso	ipse	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	20	conj	_	_
+24	et	et	CCONJ	c--------	_	26	cc	_	_
+25	per	per	ADP	r--------	_	26	case	_	_
+26	ipsum	ipse	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	conj	_	_
+27	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	28	cop	_	_
+28	omnia	omnis	DET	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	parataxis	_	SpaceAfter=No
+29	.	.	PUNCT	u--------	_	31	punct	_	_
+30	Ipsi	ipse	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	31	obl	_	_
+31	honor	honor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	28	parataxis	_	_
+32	et	et	CCONJ	c--------	_	33	cc	_	_
+33	gloria	gloria	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	31	conj	_	_
+34	in	in	ADP	r--------	_	35	case	_	_
+35	saecula	saeculum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	31	obl	_	_
+36	saeculorum	saeculum	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	35	nmod	_	SpaceAfter=No
+37	,	,	PUNCT	u--------	_	31	punct	_	_
+38	amen	amen	NOUN	n-----n--	Gender=Neut	31	discourse	_	SpaceAfter=No
+39	»	»	PUNCT	u--------	_	31	punct	_	SpaceAfter=No
+40	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = TH-032
+# text = Ex his profecto evidenter apparet quod per auxilium gratiae homo, etiamsi non perseveraverit sed in peccatum ceciderit, potest reparari ad bonum.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_1,Sentence_1
+1	Ex	ex	ADP	r--------	_	2	case	_	_
+2	his	hic	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	5	obl	_	_
+3	profecto	profecto	ADV	d--------	_	5	advmod	_	_
+4	evidenter	evidenter	ADV	d--------	_	5	advmod	_	_
+5	apparet	appareo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	quod	quod	SCONJ	c--------	_	20	mark	_	_
+7	per	per	ADP	r--------	_	8	case	_	_
+8	auxilium	auxilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	20	obl	_	_
+9	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	14	punct	_	_
+12	etiamsi	etiamsi	SCONJ	c--------	_	14	mark	_	_
+13	non	non	PART	d--------	_	14	advmod	_	_
+14	perseveraverit	persevero	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	_
+15	sed	sed	CCONJ	c--------	_	18	cc	_	_
+16	in	in	ADP	r--------	_	17	case	_	_
+17	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+18	ceciderit	cado	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	14	punct	_	_
+20	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+21	reparari	reparo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	20	xcomp	_	_
+22	ad	ad	ADP	r--------	_	23	case	_	_
+23	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-033
+# text = Eiusdem enim virtutis est continuare salutem alicuius et interruptam reparare: sicut enim per virtutem naturalem continuatur sanitas in corpore, ita per eandem virtutem naturalem sanitas interrupta reparatur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_2,Sentence_1
+1	Eiusdem	idem	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	det	_	_
+2	enim	enim	PART	c--------	_	3	discourse	_	_
+3	virtutis	virtus	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	0	root	_	_
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	continuare	continuo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	_
+6	salutem	salus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	alicuius	aliquis	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	et	et	CCONJ	c--------	_	10	cc	_	_
+9	interruptam	interrumpo	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	orphan	_	_
+10	reparare	reparo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	conj	_	SpaceAfter=No
+11	:	:	PUNCT	u--------	_	29	punct	_	_
+12	sicut	sicut	SCONJ	d--------	_	17	mark	_	_
+13	enim	enim	PART	c--------	_	17	discourse	_	_
+14	per	per	ADP	r--------	_	15	case	_	_
+15	virtutem	virtus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+16	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
+17	continuatur	continuo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	29	advcl	_	_
+18	sanitas	sanitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+19	in	in	ADP	r--------	_	20	case	_	_
+20	corpore	corpus	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	29	punct	_	_
+22	ita	ita	ADV	d--------	_	29	advmod	_	_
+23	per	per	ADP	r--------	_	25	case	_	_
+24	eandem	idem	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	25	det	_	_
+25	virtutem	virtus	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	_
+26	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	25	amod	_	_
+27	sanitas	sanitas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	_
+28	interrupta	interrumpo	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+29	reparatur	reparo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	conj	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-034
+# text = Homo autem perseverat in bono auxilio divinae gratiae, ut ostensum est; igitur si per peccatum lapsum fuerit eiusdem gratiae auxilio potest reparari.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_2,Sentence_2
+1	Homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	3	cc	_	_
+3	perseverat	persevero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	in	in	ADP	r--------	_	5	case	_	_
+5	bono	bonum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	_
+6	auxilio	auxilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	_
+7	divinae	divinus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	11	punct	_	_
+10	ut	ut	SCONJ	c--------	_	11	mark	_	_
+11	ostensum	ostendo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	advcl:cmpr	_	_
+12	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=No
+13	;	;	PUNCT	u--------	_	23	punct	_	_
+14	igitur	igitur	PART	d--------	_	23	discourse	_	_
+15	si	si	SCONJ	c--------	_	18	mark	_	_
+16	per	per	ADP	r--------	_	17	case	_	_
+17	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+18	lapsum	labor	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	_
+19	fuerit	sum	AUX	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	_	_
+20	eiusdem	idem	DET	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	21	det	_	_
+21	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	_
+22	auxilio	auxilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	24	obl	_	_
+23	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+24	reparari	reparo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	23	xcomp	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-035
+# text = Adhuc, agens quod non requirit dispositionem in subiecto potest suum effectum imprimere in subiectum qualitercumque dispositum;
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_3,Sentence_1
+1	Adhuc	adhuc	ADV	d--------	_	10	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	agens	ago	VERB	v-sppann-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	nsubj	_	_
+4	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	non	non	PART	d--------	_	6	advmod	_	_
+6	requirit	requiro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+7	dispositionem	dispositio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	in	in	ADP	r--------	_	9	case	_	_
+9	subiecto	subiectum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+10	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	suum	suus	DET	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	12	det	_	_
+12	effectum	effectus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	_
+13	imprimere	imprimo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	_
+14	in	in	ADP	r--------	_	15	case	_	_
+15	subiectum	subiectum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+16	qualitercumque	qualitercumque	ADV	d--------	_	17	advmod	_	_
+17	dispositum	dispono	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	SpaceAfter=No
+18	;	;	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = TH-036
+# text = et propter hoc Deus, qui in agendo non requirit subiectum dispositum, potest absque dispositione subiecti formam naturalem inducere, utpote dum caecum illuminat et mortuum vivificat et sic de similibus.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_3,Sentence_2
+1	et	et	CCONJ	c--------	_	14	cc	_	_
+2	propter	propter	ADP	r--------	_	3	case	_	_
+3	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	_
+4	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	10	punct	_	_
+6	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+7	in	in	ADP	r--------	_	8	mark	_	_
+8	agendo	ago	VERB	v------b-	Case=Abl|VerbForm=Ger	10	advcl	_	_
+9	non	non	PART	d--------	_	10	advmod	_	_
+10	requirit	requiro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	_
+11	subiectum	subiectum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+12	dispositum	dispono	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	10	punct	_	_
+14	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	absque	absque	ADP	r--------	_	16	case	_	_
+16	dispositione	dispositio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+17	subiecti	subiectum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
+18	formam	forma	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+19	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
+20	inducere	induco	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	SpaceAfter=No
+21	,	,	PUNCT	u--------	_	25	punct	_	_
+22	utpote	utpote	ADV	d--------	_	25	mark	_	_
+23	dum	dum	SCONJ	c--------	_	25	mark	_	_
+24	caecum	caecus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	_
+25	illuminat	illumino	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	_	_
+26	et	et	CCONJ	c--------	_	28	cc	_	_
+27	mortuum	morior	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	obj	_	_
+28	vivificat	vivifico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
+29	et	et	CCONJ	c--------	_	25	cc	_	_
+30	sic	sic	ADV	d--------	_	25	orphan	_	_
+31	de	de	ADP	r--------	_	32	case	_	_
+32	similibus	similis	ADJ	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	25	orphan	_	SpaceAfter=No
+33	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-037
+# text = Sed sicut non requirit dispositionem naturalem in subiecto corporeo, ita non requirit meritum in voluntate ad gratiam conferendam, quia sine meritis datur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_3,Sentence_3
+1	Sed	sed	CCONJ	c--------	_	13	cc	_	_
+2	sicut	sicut	SCONJ	d--------	_	4	mark	_	_
+3	non	non	PART	d--------	_	4	advmod	_	_
+4	requirit	requiro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+5	dispositionem	dispositio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
+6	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+7	in	in	ADP	r--------	_	8	case	_	_
+8	subiecto	subiectum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
+9	corporeo	corporeus	ADJ	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	13	punct	_	_
+11	ita	ita	ADV	d--------	_	13	advmod	_	_
+12	non	non	PART	d--------	_	13	advmod	_	_
+13	requirit	requiro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+14	meritum	meritum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	_
+15	in	in	ADP	r--------	_	16	case	_	_
+16	voluntate	voluntas	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	13	obl	_	_
+17	ad	ad	ADP	r--------	_	19	mark	_	_
+18	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	19	nsubj	_	_
+19	conferendam	confero	VERB	v-s---fa-	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Gdv	13	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	24	punct	_	_
+21	quia	quia	SCONJ	c--------	_	24	mark	_	_
+22	sine	sine	ADP	r--------	_	23	case	_	_
+23	meritis	meritum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	24	obl	_	_
+24	datur	do	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = TH-038
+# text = Ergo gratiam gratum facientem, per quam peccata tolluntur, Deus alicui conferre potest etiam postquam a gratia cecidit per peccatum.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_3,Sentence_4
+1	Ergo	ergo	ADV	d--------	_	14	discourse	_	_
+2	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+3	gratum	gratus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	_
+4	facientem	facio	VERB	v-sppafa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	9	punct	_	_
+6	per	per	ADP	r--------	_	7	case	_	_
+7	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+8	peccata	peccatum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	_	_
+9	tolluntur	tollo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	9	punct	_	_
+11	Deus	Deus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	alicui	aliquis	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	_
+13	conferre	confero	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	14	xcomp	_	_
+14	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	etiam	etiam	ADV	c--------	_	19	advmod	_	_
+16	postquam	postquam	SCONJ	c--------	_	19	mark	_	_
+17	a	ab	ADP	r--------	_	18	case	_	_
+18	gratia	gratia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	19	obl	_	_
+19	cecidit	cado	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
+20	per	per	ADP	r--------	_	21	case	_	_
+21	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-039
+# text = Amplius, nulla potentia passiva invenitur in rerum natura quae non possit reduci in actum per potentiam activam.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_4,Sentence_1
+1	Amplius	ample	ADV	d-------c	Degree=Cmp	6	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	nulla	nullus	DET	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	det	_	_
+4	potentia	potentia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+5	passiva	passivus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	_
+6	invenitur	invenio	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	in	in	ADP	r--------	_	9	case	_	_
+8	rerum	res	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	9	nmod	_	_
+9	natura	natura	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	6	obl	_	_
+10	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	_
+11	non	non	PART	d--------	_	12	advmod	_	_
+12	possit	possum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	_
+13	reduci	reduco	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	12	xcomp	_	_
+14	in	in	ADP	r--------	_	15	case	_	_
+15	actum	actus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+16	per	per	ADP	r--------	_	17	case	_	_
+17	potentiam	potentia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+18	activam	activus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-040
+# text = Manet autem in anima humana etiam post peccatum potentia ad bonum, quia per peccatum non tolluntur potentiae naturales, quibus anima ordinatur ad summum bonum.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_4,Sentence_2
+1	Manet	maneo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	autem	autem	CCONJ	c--------	_	1	cc	_	_
+3	in	in	ADP	r--------	_	4	case	_	_
+4	anima	anima	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	1	obl	_	_
+5	humana	humanus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	4	amod	_	_
+6	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+7	post	post	ADP	r--------	_	8	case	_	_
+8	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
+9	potentia	potentia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
+10	ad	ad	ADP	r--------	_	11	case	_	_
+11	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	17	punct	_	_
+13	quia	quia	SCONJ	c--------	_	17	mark	_	_
+14	per	per	ADP	r--------	_	15	case	_	_
+15	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	_
+16	non	non	PART	d--------	_	17	advmod	_	_
+17	tolluntur	tollo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+18	potentiae	potentia	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	_
+19	naturales	naturalis	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	18	amod	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	17	punct	_	_
+21	quibus	qui	PRON	p-p---fb-	Case=Abl|Gender=Fem|Number=Plur	23	obl	_	_
+22	anima	anima	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+23	ordinatur	ordino	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl	_	_
+24	ad	ad	ADP	r--------	_	26	case	_	_
+25	summum	summus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	26	amod	_	_
+26	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obl	_	SpaceAfter=No
+27	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-041
+# text = Potest igitur per divinam potentiam reparari in bono.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_4,Sentence_3
+1	Potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	PART	d--------	_	1	discourse	_	_
+3	per	per	ADP	r--------	_	5	case	_	_
+4	divinam	divinus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	amod	_	_
+5	potentiam	potentia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+6	reparari	reparo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	1	xcomp	_	_
+7	in	in	ADP	r--------	_	8	case	_	_
+8	bono	bonum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-042
+# text = Et sic auxilio gratiae homo potest consequi remissionem peccatorum.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_4,Sentence_4
+1	Et	et	CCONJ	c--------	_	6	cc	_	_
+2	sic	sic	ADV	d--------	_	6	advmod	_	_
+3	auxilio	auxilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
+4	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	consequi	consequor	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	6	xcomp	_	_
+8	remissionem	remissio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+9	peccatorum	peccatum	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-043
+# text = Et hoc est quod Dominus per Isaiam: «Si fuerint peccata vestra ut coccinum, quasi nix dealbabuntur».
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_5,Sentence_1
+1	Et	et	CCONJ	c--------	_	2	cc	_	_
+2	hoc	hic	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	orphan	_	_
+5	Dominus	dominus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+6	per	per	ADP	r--------	_	7	case	_	_
+7	Isaiam	Isaias	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	orphan	_	SpaceAfter=No
+8	:	:	PUNCT	u--------	_	2	punct	_	_
+9	«	«	PUNCT	u--------	_	19	punct	_	SpaceAfter=No
+10	Si	si	SCONJ	c--------	_	12	mark	_	_
+11	fuerint	sum	AUX	v3ptia---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	12	cop	_	_
+12	peccata	peccatum	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	19	advcl	_	_
+13	vestra	vester	DET	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	det	_	_
+14	ut	ut	SCONJ	c--------	_	15	mark	_	_
+15	coccinum	coccinus	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	12	advcl:cmpr	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	19	punct	_	_
+17	quasi	quasi	SCONJ	c--------	_	19	mark	_	_
+18	nix	nix	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+19	dealbabuntur	dealbo	VERB	v3pfip---	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	2	parataxis	_	SpaceAfter=No
+20	»	»	PUNCT	u--------	_	19	punct	_	SpaceAfter=No
+21	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-044
+# text = Et in Proverbiis: «Universa delicta operit caritas».
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_6,Sentence_1
+1	Et	et	CCONJ	c--------	_	3	cc	_	_
+2	in	in	ADP	r--------	_	3	case	_	_
+3	Proverbiis	proverbium	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	8	punct	_	_
+5	«	«	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+6	Universa	universus	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	amod	_	_
+7	delicta	delictum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
+8	operit	operio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+9	caritas	caritas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	»	»	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-045
+# text = Hoc etiam a Domino quotidie non frustra petimus dicentes: “Dimitte nobis debita nostra”.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_7,Sentence_1
+1	Hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+2	etiam	etiam	ADV	c--------	_	8	advmod	_	_
+3	a	ab	ADP	r--------	_	4	case	_	_
+4	Domino	dominus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+5	quotidie	cottidie	ADV	d--------	_	8	advmod	_	_
+6	non	non	PART	d--------	_	7	advmod	_	_
+7	frustra	frustra	ADV	d--------	_	8	advmod	_	_
+8	petimus	peto	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	dicentes	dico	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	SpaceAfter=No
+10	:	:	PUNCT	u--------	_	11	punct	_	_
+11	Dimitte	dimitto	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+12	nobis	nos	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=1	11	obl	_	_
+13	debita	debeo	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	_
+14	nostra	noster	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	det	_	SpaceAfter=No
+15	.	.	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = TH-046
+# text = Per hoc etiam excluditur error novatianorum, qui dixerunt quod de peccatis, quae homo post baptismum committit, veniam consequi non potest.
+# citation_hierarchy = Liber_Primus,Capitulum_xxiv,Paragraphus_7,Sentence_2
+1	Per	per	ADP	r--------	_	2	case	_	_
+2	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+3	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+4	excluditur	excludo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	error	error	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	novatianorum	novatianus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	9	punct	_	_
+8	qui	qui	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	dixerunt	dico	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	_
+10	quod	quod	SCONJ	c--------	_	23	mark	_	_
+11	de	de	ADP	r--------	_	12	case	_	_
+12	peccatis	peccatum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	23	obl	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	18	punct	_	_
+14	quae	qui	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	18	obj	_	_
+15	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+16	post	post	ADP	r--------	_	17	case	_	_
+17	baptismum	baptismum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	_
+18	committit	committo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	12	punct	_	_
+20	veniam	venia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	_
+21	consequi	consequor	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	23	xcomp	_	_
+22	non	non	PART	d--------	_	23	advmod	_	_
+23	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-047
+# text = Ad hoc autem quod dictum est de adeptione beatitudinis per auxilium gratiae consequitur necessario quod per divinam gratiam causetur in nobis dilectio caritatis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_1,Sentence_1
+1	Ad	ad	ADP	r--------	_	2	case	_	_
+2	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+3	autem	autem	CCONJ	c--------	_	13	cc	_	_
+4	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	dictum	dico	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	acl	_	_
+6	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+7	de	de	ADP	r--------	_	8	case	_	_
+8	adeptione	adeptio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	_
+9	beatitudinis	beatitudo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	per	per	ADP	r--------	_	11	case	_	_
+11	auxilium	auxilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+12	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	consequitur	consequor	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+14	necessario	necessario	ADV	d--------	_	13	advmod	_	_
+15	quod	quod	SCONJ	c--------	_	19	mark	_	_
+16	per	per	ADP	r--------	_	18	case	_	_
+17	divinam	divinus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
+18	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	_
+19	causetur	causo	VERB	v3spip---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	13	ccomp	_	_
+20	in	in	ADP	r--------	_	21	case	_	_
+21	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	19	obl	_	_
+22	dilectio	dilectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+23	caritatis	caritas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = TH-048
+# text = Eorum enim quorum est unus finis oportet aliquam unionem esse in quantum ordinantur ad finem;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_2,Sentence_1
+1	Eorum	is	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|Person=3	7	nmod	_	_
+2	enim	enim	PART	c--------	_	7	discourse	_	_
+3	quorum	qui	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	unus	unus	NUM	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nummod	_	_
+6	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	_
+7	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	aliquam	aliqui	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	det	_	_
+9	unionem	unio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj	_	_
+11	in	in	ADP	r--------	_	13	mark	_	_
+12	quantum	quantus	DET	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	fixed	_	_
+13	ordinantur	ordino	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	_
+14	ad	ad	ADP	r--------	_	15	case	_	_
+15	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
+16	;	;	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-049
+# text = unde et civitatis homines per quandam concordiam adunantur ut possint consequi reipublicae bonum, et milites in acie oportet uniri et concorditer agere ad hoc ut victoriam, quae est communis finis, adsequantur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_2,Sentence_2
+1	unde	unde	ADV	d--------	_	8	advmod	_	_
+2	et	et	CCONJ	c--------	_	8	cc	_	_
+3	civitatis	civitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+4	homines	homo	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+5	per	per	ADP	r--------	_	7	case	_	_
+6	quandam	quidam	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
+7	concordiam	concordia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+8	adunantur	aduno	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+9	ut	ut	SCONJ	c--------	_	10	mark	_	_
+10	possint	possum	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+11	consequi	consequor	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	10	xcomp	_	_
+12	reipublicae	respublica	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	_
+13	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	19	punct	_	_
+15	et	et	CCONJ	c--------	_	19	cc	_	_
+16	milites	miles	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	20	nsubj	_	_
+17	in	in	ADP	r--------	_	18	case	_	_
+18	acie	acies	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	20	obl	_	_
+19	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+20	uniri	unio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	19	csubj	_	_
+21	et	et	CCONJ	c--------	_	23	cc	_	_
+22	concorditer	concorditer	ADV	d--------	_	23	advmod	_	_
+23	agere	ago	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	20	conj	_	_
+24	ad	ad	ADP	r--------	_	25	case	_	_
+25	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	23	obl	_	_
+26	ut	ut	SCONJ	c--------	_	34	mark	_	_
+27	victoriam	victoria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	34	obj	_	SpaceAfter=No
+28	,	,	PUNCT	u--------	_	32	punct	_	_
+29	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	32	nsubj	_	_
+30	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	cop	_	_
+31	communis	communis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	32	amod	_	_
+32	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	27	acl	_	SpaceAfter=No
+33	,	,	PUNCT	u--------	_	32	punct	_	_
+34	adsequantur	adsequor	VERB	v3ppsp---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	advcl	_	SpaceAfter=No
+35	.	.	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = TH-050
+# text = Finis autem ultimus, ad quem homo per auxilium gratiae perducitur, est visio Dei per essentiam, quae propria est ipsius Dei: et sic hoc finale bonum communicatur homini a Deo.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_3,Sentence_1
+1	Finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	14	cc	_	_
+3	ultimus	ultimus	ADJ	a-s---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	1	amod	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	11	punct	_	_
+5	ad	ad	ADP	r--------	_	6	case	_	_
+6	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+7	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+8	per	per	ADP	r--------	_	9	case	_	_
+9	auxilium	auxilium	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+10	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+11	perducitur	perduco	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	11	punct	_	_
+13	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	visio	visio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+15	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	per	per	ADP	r--------	_	17	case	_	_
+17	essentiam	essentia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	20	punct	_	_
+19	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	20	nsubj	_	_
+20	propria	proprius	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	acl	_	_
+21	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	_
+22	ipsius	ipse	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	23	det	_	_
+23	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+24	:	:	PUNCT	u--------	_	30	punct	_	_
+25	et	et	CCONJ	c--------	_	30	cc	_	_
+26	sic	sic	ADV	d--------	_	30	advmod	_	_
+27	hoc	hic	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	29	det	_	_
+28	finale	finalis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	29	amod	_	_
+29	bonum	bonum	NOUN	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	30	nsubj	_	_
+30	communicatur	communico	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	conj	_	_
+31	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	30	obl	_	_
+32	a	ab	ADP	r--------	_	33	case	_	_
+33	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	30	obl	_	SpaceAfter=No
+34	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-051
+# text = Non potest igitur homo ad hunc finem perduci nisi uniatur Deo per conformitatem voluntatis, quae est proprius effectus dilectionis; nam amicorum proprium est idem velle et nolle, et eisdem gaudere et dolere.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_3,Sentence_2
+1	Non	non	PART	d--------	_	2	advmod	_	_
+2	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	igitur	igitur	PART	d--------	_	2	discourse	_	_
+4	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	ad	ad	ADP	r--------	_	7	case	_	_
+6	hunc	hic	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	det	_	_
+7	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
+8	perduci	perduco	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	2	xcomp	_	_
+9	nisi	nisi	SCONJ	c--------	_	10	mark	_	_
+10	uniatur	unio	VERB	v3spip---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	advcl	_	_
+11	Deo	Deus	PROPN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	_
+12	per	per	ADP	r--------	_	13	case	_	_
+13	conformitatem	conformitas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+14	voluntatis	voluntas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	19	punct	_	_
+16	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+17	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	_
+18	proprius	proprius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	amod	_	_
+19	effectus	effectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	acl	_	_
+20	dilectionis	dilectio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
+21	;	;	PUNCT	u--------	_	24	punct	_	_
+22	nam	nam	PART	c--------	_	24	discourse	_	_
+23	amicorum	amicus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	24	nmod	_	_
+24	proprium	proprius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	2	parataxis	_	_
+25	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	cop	_	_
+26	idem	idem	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	27	obj	_	_
+27	velle	volo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	24	csubj	_	_
+28	et	et	CCONJ	c--------	_	29	cc	_	_
+29	nolle	nolo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	27	conj	_	SpaceAfter=No
+30	,	,	PUNCT	u--------	_	33	punct	_	_
+31	et	et	CCONJ	c--------	_	33	cc	_	_
+32	eisdem	idem	DET	p-p---nd-	Case=Dat|Gender=Neut|Number=Plur	33	obl	_	_
+33	gaudere	gaudeo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	27	conj	_	_
+34	et	et	CCONJ	c--------	_	35	cc	_	_
+35	dolere	doleo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	33	conj	_	SpaceAfter=No
+36	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-052
+# text = Per gratiam igitur gratum facientem homo constituitur Dei dilector, cum per eam dirigatur in finem ei communicatum a Deo.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_4,Sentence_1
+1	Per	per	ADP	r--------	_	2	case	_	_
+2	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+3	igitur	igitur	PART	d--------	_	7	discourse	_	_
+4	gratum	gratus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	xcomp	_	_
+5	facientem	facio	VERB	v-sppafa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+6	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	constituitur	constituo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	dilector	dilector	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	xcomp	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	14	punct	_	_
+11	cum	cum	SCONJ	c--------	_	14	mark	_	_
+12	per	per	ADP	r--------	_	13	case	_	_
+13	eam	is	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obl	_	_
+14	dirigatur	dirigo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	advcl	_	_
+15	in	in	ADP	r--------	_	16	case	_	_
+16	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+17	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	18	obl	_	_
+18	communicatum	communico	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+19	a	ab	ADP	r--------	_	20	case	_	_
+20	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
+21	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-053
+# text = Amplius, cum finis et bonum sit proprium obiectum appetitus sive affectus, oportet quod per gratiam gratum facientem, quae hominem dirigit in ultimum finem, affectus hominis principaliter perficiatur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_5,Sentence_1
+1	Amplius	ample	ADV	d-------c	Degree=Cmp	14	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	cum	cum	SCONJ	c--------	_	9	mark	_	_
+4	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+5	et	et	CCONJ	c--------	_	6	cc	_	_
+6	bonum	bonum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+7	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+8	proprium	proprius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	9	amod	_	_
+9	obiectum	obiectum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	14	advcl	_	_
+10	appetitus	appetitus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+11	sive	sive	CCONJ	c--------	_	12	cc	_	_
+12	affectus	affectus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	9	punct	_	_
+14	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+15	quod	quod	SCONJ	c--------	_	31	mark	_	_
+16	per	per	ADP	r--------	_	17	case	_	_
+17	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	_
+18	gratum	gratus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	xcomp	_	_
+19	facientem	facio	VERB	v-sppafa-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	17	acl	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	23	punct	_	_
+21	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+22	hominem	homo	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	obj	_	_
+23	dirigit	dirigo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	acl	_	_
+24	in	in	ADP	r--------	_	26	case	_	_
+25	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	26	amod	_	_
+26	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+27	,	,	PUNCT	u--------	_	23	punct	_	_
+28	affectus	affectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	_
+29	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	_
+30	principaliter	principaliter	ADV	d--------	_	31	advmod	_	_
+31	perficiatur	perficio	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	csubj	_	SpaceAfter=No
+32	.	.	PUNCT	u--------	_	14	punct	_	_
+
+# sent_id = TH-054
+# text = Principalis autem perfectio affectus est dilectio, cuius signum est quod omnis motus affectus ab amore derivatur: nullus enim desiderat aut sperat aut gaudet nisi propter bonum amatum;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_6,Sentence_1
+1	Principalis	principalis	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_
+2	autem	autem	CCONJ	c--------	_	6	cc	_	_
+3	perfectio	perfectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+4	affectus	affectus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+5	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	dilectio	dilectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	17	punct	_	_
+8	cuius	qui	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
+9	signum	signum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	6	acl	_	_
+10	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+11	quod	quod	SCONJ	c--------	_	17	mark	_	_
+12	omnis	omnis	DET	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	det	_	_
+13	motus	motus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+14	affectus	affectus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	ab	ab	ADP	r--------	_	16	case	_	_
+16	amore	amor	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	17	obl	_	_
+17	derivatur	derivo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	9	csubj	_	SpaceAfter=No
+18	:	:	PUNCT	u--------	_	21	punct	_	_
+19	nullus	nullus	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
+20	enim	enim	PART	c--------	_	21	discourse	_	_
+21	desiderat	desidero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	_
+22	aut	aut	CCONJ	c--------	_	23	cc	_	_
+23	sperat	spero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	_
+24	aut	aut	CCONJ	c--------	_	25	cc	_	_
+25	gaudet	gaudeo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	_
+26	nisi	nisi	SCONJ	c--------	_	29	mark	_	_
+27	propter	propter	ADP	r--------	_	29	case	_	_
+28	bonum	bonum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	21	advcl	_	_
+29	amatum	amo	VERB	v-srppna-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	28	acl	_	SpaceAfter=No
+30	;	;	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-055
+# text = similiter autem neque aliquis timet aut refugit aut tristatur aut irascitur nisi propter id quod contrariatur bono amato.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_6,Sentence_2
+1	similiter	similis	ADV	d--------	_	5	advmod	_	_
+2	autem	autem	CCONJ	c--------	_	5	cc	_	_
+3	neque	neque	CCONJ	c--------	_	5	cc	_	_
+4	aliquis	aliquis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	timet	timeo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	aut	aut	CCONJ	c--------	_	7	cc	_	_
+7	refugit	refugio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+8	aut	aut	CCONJ	c--------	_	9	cc	_	_
+9	tristatur	tristor	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+10	aut	aut	CCONJ	c--------	_	11	cc	_	_
+11	irascitur	irascor	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
+12	nisi	nisi	SCONJ	c--------	_	14	mark	_	_
+13	propter	propter	ADP	r--------	_	14	case	_	_
+14	id	is	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|Person=3	5	advcl	_	_
+15	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+16	contrariatur	contrarior	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl	_	_
+17	bono	bonum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	16	obl	_	_
+18	amato	amo	VERB	v-srppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	SpaceAfter=No
+19	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-056
+# text = Principalis ergo effectus gratiae gratum facientis est ut Deum diligat.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_6,Sentence_3
+1	Principalis	principalis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+2	ergo	ergo	ADV	c--------	_	6	discourse	_	_
+3	effectus	effectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
+5	gratum	gratus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	xcomp	_	_
+6	facientis	facio	VERB	v-sppafg-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+8	ut	ut	SCONJ	c--------	_	10	mark	_	_
+9	Deum	Deus	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+10	diligat	diligo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-057
+# text = Et praeterea, ad perfectionem operationis requiritur quod aliquis constanter et prompte operetur: hoc autem praecipue facit amor, propter quem etiam difficilia levia videntur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_7,Sentence_1
+1	Et	et	CCONJ	c--------	_	7	cc	_	_
+2	praeterea	praeterea	ADV	d--------	_	7	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	2	punct	_	_
+4	ad	ad	ADP	r--------	_	5	case	_	_
+5	perfectionem	perfectio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+6	operationis	operatio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	requiritur	requiro	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	quod	quod	SCONJ	c--------	_	13	mark	_	_
+9	aliquis	aliquis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+10	constanter	constanter	ADV	d--------	_	13	advmod	_	_
+11	et	et	CCONJ	c--------	_	12	cc	_	_
+12	prompte	prompte	ADV	d--------	_	10	conj	_	_
+13	operetur	operor	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	csubj	_	SpaceAfter=No
+14	:	:	PUNCT	u--------	_	18	punct	_	_
+15	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+16	autem	autem	CCONJ	c--------	_	18	cc	_	_
+17	praecipue	praecipuus	ADV	d--------	_	18	advmod	_	_
+18	facit	facio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+19	amor	amor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	26	punct	_	_
+21	propter	propter	ADP	r--------	_	22	case	_	_
+22	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	26	obl	_	_
+23	etiam	etiam	ADV	c--------	_	24	advmod	_	_
+24	difficilia	difficilis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	26	nsubj	_	_
+25	levia	levis	ADJ	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	26	xcomp	_	_
+26	videntur	video	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19	acl	_	_
+27	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-058
+# text = Cum igitur ex gratia gratum faciente oporteat hominis operationes perfectas fieri, ut est supra dictum, necessarium est quod per eandem gratiam Dei dilectio constituatur in nobis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_7,Sentence_2
+1	Cum	cum	SCONJ	c--------	_	7	mark	_	_
+2	igitur	igitur	PART	d--------	_	18	discourse	_	_
+3	ex	ex	ADP	r--------	_	4	case	_	_
+4	gratia	gratia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	7	obl	_	_
+5	gratum	gratus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	xcomp	_	_
+6	faciente	facio	VERB	v-sppafb-	Case=Abl|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
+7	oporteat	oportet	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	_
+8	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	_
+9	operationes	operatio	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	nsubj	_	_
+10	perfectas	perficio	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	xcomp	_	_
+11	fieri	fio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	7	csubj	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	16	punct	_	_
+13	ut	ut	SCONJ	c--------	_	16	mark	_	_
+14	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
+15	supra	supra	ADV	d--------	_	16	advmod	_	_
+16	dictum	dico	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl:cmpr	_	SpaceAfter=No
+17	,	,	PUNCT	u--------	_	16	punct	_	_
+18	necessarium	necessarius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+19	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	_
+20	quod	quod	SCONJ	c--------	_	26	mark	_	_
+21	per	per	ADP	r--------	_	23	case	_	_
+22	eandem	idem	DET	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	23	det	_	_
+23	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	26	obl	_	_
+24	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	25	nmod	_	_
+25	dilectio	dilectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	26	nsubj	_	_
+26	constituatur	constituo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	csubj	_	_
+27	in	in	ADP	r--------	_	28	case	_	_
+28	nobis	nos	PRON	p-p---md-	Case=Abl|Gender=Masc|Number=Plur|Person=1	26	obl	_	SpaceAfter=No
+29	.	.	PUNCT	u--------	_	18	punct	_	_
+
+# sent_id = TH-059
+# text = Hinc est quod Apostolus dicit: «Caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est nobis».
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_8,Sentence_1
+1	Hinc	hinc	ADV	d--------	_	2	advmod	_	_
+2	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+4	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	SpaceAfter=No
+6	:	:	PUNCT	u--------	_	10	punct	_	_
+7	«	«	PUNCT	u--------	_	10	punct	_	SpaceAfter=No
+8	Caritas	caritas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+9	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	diffusa	diffundo	VERB	v-srppfn-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+11	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+12	in	in	ADP	r--------	_	13	case	_	_
+13	cordibus	cor	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	10	obl	_	_
+14	nostris	noster	DET	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	13	det	_	_
+15	per	per	ADP	r--------	_	16	case	_	_
+16	Spiritum	spiritus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+17	Sanctum	sanctus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	20	punct	_	_
+19	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
+20	datus	do	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	_
+21	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+22	nobis	nos	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=1	20	obl	_	SpaceAfter=No
+23	»	»	PUNCT	u--------	_	10	punct	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-060
+# text = Et Dominus dilectoribus suis visionem suam repromittit dicens: «Qui diligit me diligetur a Patre meo, et ego diligam eum, et manifestabo ei me ipsum».
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_9,Sentence_1
+1	Et	et	CCONJ	c--------	_	7	cc	_	_
+2	Dominus	dominus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+3	dilectoribus	dilector	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	_
+4	suis	suus	DET	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	det	_	_
+5	visionem	visio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+6	suam	suus	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+7	repromittit	repromitto	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	dicens	dico	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	SpaceAfter=No
+9	:	:	PUNCT	u--------	_	14	punct	_	_
+10	«	«	PUNCT	u--------	_	14	punct	_	SpaceAfter=No
+11	Qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+12	diligit	diligo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	orphan	_	_
+13	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=1	12	obj	_	_
+14	diligetur	diligo	VERB	v3sfip---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	7	parataxis	_	_
+15	a	ab	ADP	r--------	_	16	case	_	_
+16	Patre	pater	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	14	obl	_	_
+17	meo	meus	DET	a-s---mb-	Case=Abl|Gender=Masc|Number=Sing	16	det	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	21	punct	_	_
+19	et	et	CCONJ	c--------	_	21	cc	_	_
+20	ego	ego	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=1	21	nsubj	_	_
+21	diligam	diligo	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	14	conj	_	_
+22	eum	is	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obj	_	SpaceAfter=No
+23	,	,	PUNCT	u--------	_	25	punct	_	_
+24	et	et	CCONJ	c--------	_	25	cc	_	_
+25	manifestabo	manifesto	VERB	v1sfia---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	14	conj	_	_
+26	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
+27	me	ego	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=1	25	obj	_	_
+28	ipsum	ipse	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	27	det	_	SpaceAfter=No
+29	»	»	PUNCT	u--------	_	14	punct	_	SpaceAfter=No
+30	.	.	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-061
+# text = Unde patet quod gratia, quae ad finem divinae visionis dirigit, dilectionem Dei causat in nobis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvi,Paragraphus_9,Sentence_2
+1	Unde	unde	ADV	d--------	_	2	advmod	_	_
+2	patet	pateo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quod	quod	SCONJ	c--------	_	15	mark	_	_
+4	gratia	gratia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	u--------	_	11	punct	_	_
+6	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+7	ad	ad	ADP	r--------	_	8	case	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+9	divinae	divinus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
+10	visionis	visio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	dirigit	dirigo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	11	punct	_	_
+13	dilectionem	dilectio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	_
+14	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
+15	causat	causo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
+16	in	in	ADP	r--------	_	17	case	_	_
+17	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	15	obl	_	SpaceAfter=No
+18	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-062
+# text = Ex hoc autem necessarium est quod etiam in nobis fides per gratiam causetur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_1,Sentence_1
+1	Ex	ex	ADP	r--------	_	2	case	_	_
+2	hoc	hic	PRON	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
+3	autem	autem	CCONJ	c--------	_	4	cc	_	_
+4	necessarium	necessarius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	quod	quod	SCONJ	c--------	_	13	mark	_	_
+7	etiam	etiam	ADV	c--------	_	13	advmod	_	_
+8	in	in	ADP	r--------	_	9	case	_	_
+9	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	13	obl	_	_
+10	fides	fides	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+11	per	per	ADP	r--------	_	12	case	_	_
+12	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	_
+13	causetur	causo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	csubj	_	SpaceAfter=No
+14	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-063
+# text = Motus enim quo per gratiam in ultimum finem dirigimur est voluntarius, non violentus;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_2,Sentence_1
+1	Motus	motus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+2	enim	enim	PART	c--------	_	11	discourse	_	_
+3	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	_
+4	per	per	ADP	r--------	_	5	case	_	_
+5	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+6	in	in	ADP	r--------	_	8	case	_	_
+7	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+9	dirigimur	dirigo	VERB	v1ppip---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	_
+10	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	voluntarius	voluntarius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	14	punct	_	_
+13	non	non	PART	d--------	_	14	advmod	_	_
+14	violentus	violentus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+15	;	;	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = TH-064
+# text = voluntarius autem motus in aliquid esse non potest nisi illud tale sit cognitum:
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_2,Sentence_2
+1	voluntarius	voluntarius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+2	autem	autem	CCONJ	c--------	_	8	cc	_	_
+3	motus	motus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+4	in	in	ADP	r--------	_	5	case	_	_
+5	aliquid	aliquis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+6	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	_
+7	non	non	PART	d--------	_	8	advmod	_	_
+8	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	nisi	nisi	SCONJ	c--------	_	13	mark	_	_
+10	illud	ille	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+11	tale	talis	DET	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	10	det	_	_
+12	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+13	cognitum	cognosco	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	SpaceAfter=No
+14	:	:	PUNCT	u--------	_	8	punct	_	_
+
+# sent_id = TH-065
+# text = oportet igitur quod per gratiam in nobis cognitio ultimi finis praestituatur, ad hoc quod voluntarie dirigamur in ipsum.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_2,Sentence_3
+1	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	PART	d--------	_	1	discourse	_	_
+3	quod	quod	SCONJ	c--------	_	11	mark	_	_
+4	per	per	ADP	r--------	_	5	case	_	_
+5	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+6	in	in	ADP	r--------	_	7	case	_	_
+7	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	11	obl	_	_
+8	cognitio	cognitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+9	ultimi	ultimus	ADJ	a-s---mgs	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	10	amod	_	_
+10	finis	finis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+11	praestituatur	praestituo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	14	punct	_	_
+13	ad	ad	ADP	r--------	_	14	case	_	_
+14	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+15	quod	quod	SCONJ	c--------	_	17	mark	_	_
+16	voluntarie	voluntarius	ADV	d--------	_	17	advmod	_	_
+17	dirigamur	dirigo	VERB	v3ppsp---	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	_
+18	in	in	ADP	r--------	_	19	case	_	_
+19	ipsum	ipse	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-066
+# text = Haec autem cognitio non potest esse secundum apertam visionem in statu isto:
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_3,Sentence_1
+1	Haec	hic	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
+2	autem	autem	CCONJ	c--------	_	5	cc	_	_
+3	cognitio	cognitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+4	non	non	PART	d--------	_	5	advmod	_	_
+5	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	_
+7	secundum	secundum	ADP	r--------	_	9	case	_	_
+8	apertam	apertus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	amod	_	_
+9	visionem	visio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+10	in	in	ADP	r--------	_	11	case	_	_
+11	statu	status	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	5	obl	_	_
+12	isto	iste	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	det	_	SpaceAfter=No
+13	:	:	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-067
+# text = oportet igitur quod sit cognitio per fidem.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_3,Sentence_2
+1	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	PART	d--------	_	1	discourse	_	_
+3	quod	quod	SCONJ	c--------	_	5	mark	_	_
+4	sit	sum	AUX	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	cognitio	cognitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	csubj	_	_
+6	per	per	ADP	r--------	_	7	case	_	_
+7	fidem	fides	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-068
+# text = Praeterea, in quolibet cognoscente, modus cognitionis consequitur modum propriae naturae, unde alius modus cognitionis est angeli, alius hominis et alius bruti, secundum quod eorum naturae diversae sunt.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_4,Sentence_1
+1	Praeterea	praeterea	ADV	d--------	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	in	in	ADP	r--------	_	4	case	_	_
+4	quolibet	quilibet	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	obl	_	_
+5	cognoscente	cognosco	VERB	v-sppamb-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	5	punct	_	_
+7	modus	modus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+8	cognitionis	cognitio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+9	consequitur	consequor	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	modum	modus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+11	propriae	proprius	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	amod	_	_
+12	naturae	natura	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
+13	,	,	PUNCT	u--------	_	9	punct	_	_
+14	unde	unde	ADV	d--------	_	9	advmod	_	_
+15	alius	alius	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	det	_	_
+16	modus	modus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	_
+17	cognitionis	cognitio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+19	angeli	angelus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	u--------	_	21	punct	_	_
+21	alius	alius	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	orphan	_	_
+22	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+23	et	et	CCONJ	c--------	_	24	cc	_	_
+24	alius	alius	ADJ	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	orphan	_	_
+25	bruti	brutus	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	u--------	_	31	punct	_	_
+27	secundum	secundum	ADP	r--------	_	31	mark	_	_
+28	quod	quod	SCONJ	c--------	_	27	fixed	_	_
+29	eorum	is	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur|Person=3	30	nmod	_	_
+30	naturae	natura	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	31	nsubj	_	_
+31	diversae	diversus	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	16	advcl	_	_
+32	sunt	sum	AUX	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	cop	_	SpaceAfter=No
+33	.	.	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = TH-069
+# text = Sed homini, ad consequendum ultimum finem, additur aliqua perfectio super propriam naturam, scilicet gratia, ut ostensum est.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_5,Sentence_1
+1	Sed	sed	CCONJ	c--------	_	9	cc	_	_
+2	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	5	punct	_	_
+4	ad	ad	ADP	r--------	_	5	mark	_	_
+5	consequendum	consequor	VERB	v-s---ma-	Case=Acc|Gender=Masc|Number=Sing|VerbForm=Gdv	9	advcl	_	_
+6	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+7	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	5	punct	_	_
+9	additur	addo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+10	aliqua	aliqui	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	det	_	_
+11	perfectio	perfectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+12	super	super	ADP	r--------	_	14	case	_	_
+13	propriam	proprius	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	amod	_	_
+14	naturam	natura	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	17	punct	_	_
+16	scilicet	scilicet	ADV	d--------	_	17	advmod	_	_
+17	gratia	gratia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	conj:expl	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	17	punct	_	_
+19	ut	ut	SCONJ	c--------	_	20	mark	_	_
+20	ostensum	ostendo	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	advcl:cmpr	_	_
+21	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = TH-070
+# text = Oportet igitur quod etiam super cognitionem naturalem hominis addatur in eo aliqua cognitio quae rationem naturalem excedat;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_5,Sentence_2
+1	Oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	PART	d--------	_	1	discourse	_	_
+3	quod	quod	SCONJ	c--------	_	9	mark	_	_
+4	etiam	etiam	ADV	c--------	_	9	advmod	_	_
+5	super	super	ADP	r--------	_	6	case	_	_
+6	cognitionem	cognitio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
+7	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	_
+8	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+9	addatur	addo	VERB	v3spip---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	_
+10	in	in	ADP	r--------	_	11	case	_	_
+11	eo	is	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|Person=3	9	obl	_	_
+12	aliqua	aliqui	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	det	_	_
+13	cognitio	cognitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+14	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+15	rationem	ratio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
+16	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
+17	excedat	excedo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	SpaceAfter=No
+18	;	;	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-071
+# text = et haec est cognitio fidei, quae est de hiis quae per rationem naturalem non videntur.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_5,Sentence_3
+1	et	et	CCONJ	c--------	_	4	cc	_	_
+2	haec	hic	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	cognitio	cognitio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+5	fidei	fides	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	10	punct	_	_
+7	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+8	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+9	de	de	ADP	r--------	_	10	case	_	_
+10	hiis	hic	DET	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	4	acl	_	_
+11	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	_
+12	per	per	ADP	r--------	_	13	case	_	_
+13	rationem	ratio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	16	obl	_	_
+14	naturalem	naturalis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
+15	non	non	PART	d--------	_	16	advmod	_	_
+16	videntur	video	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	acl	_	SpaceAfter=No
+17	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-072
+# text = Iterum, quandocumque ab aliquo agente movetur aliquid ad id quod est proprium illi agenti, oportet quod in principio ipsum mobile subdatur impressionibus agentis imperfectione, quasi alienis et non propriis sibi, quousque fiant ei propriae in termino motus.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_6,Sentence_1
+1	Iterum	iterum	ADV	d--------	_	17	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	quandocumque	quandocumque	SCONJ	d--------	_	7	mark	_	_
+4	ab	ab	ADP	r--------	_	6	case	_	_
+5	aliquo	aliquis	DET	p-s---nb-	Case=Abl|Gender=Neut|Number=Sing	6	det	_	_
+6	agente	ago	VERB	v-sppanb-	Case=Abl|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	obl	_	_
+7	movetur	moveo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	advcl	_	_
+8	aliquid	aliquis	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+9	ad	ad	ADP	r--------	_	10	case	_	_
+10	id	is	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	obl	_	_
+11	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+12	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	_
+13	proprium	proprius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	10	acl	_	_
+14	illi	ille	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	15	det	_	_
+15	agenti	ago	VERB	v-sppand-	Case=Dat|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	7	punct	_	_
+17	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+18	quod	quod	SCONJ	c--------	_	23	mark	_	_
+19	in	in	ADP	r--------	_	20	case	_	_
+20	principio	principium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	23	obl	_	_
+21	ipsum	ipse	DET	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	det	_	_
+22	mobile	mobilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	23	nsubj	_	_
+23	subdatur	subdo	VERB	v3spip---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	csubj	_	_
+24	impressionibus	impressio	NOUN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	23	obl	_	_
+25	agentis	ago	VERB	v-sppang-	Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	nmod	_	_
+26	imperfectione	imperfectio	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
+27	,	,	PUNCT	u--------	_	29	punct	_	_
+28	quasi	quasi	SCONJ	c--------	_	29	mark	_	_
+29	alienis	alienus	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	24	advcl:cmpr	_	_
+30	et	et	CCONJ	c--------	_	32	cc	_	_
+31	non	non	PART	d--------	_	32	advmod	_	_
+32	propriis	proprius	ADJ	a-p---fb-	Case=Abl|Gender=Fem|Number=Plur	29	conj	_	_
+33	sibi	sui	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	33	obl	_	SpaceAfter=No
+34	,	,	PUNCT	u--------	_	36	punct	_	_
+35	quousque	quousque	SCONJ	c--------	_	36	mark	_	_
+36	fiant	fio	VERB	v3ppsa---	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	_
+37	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	36	obl	_	_
+38	propriae	proprius	ADJ	a-p---fn-	Case=Nom|Gender=Fem|Number=Plur	36	xcomp	_	_
+39	in	in	ADP	r--------	_	40	case	_	_
+40	termino	terminus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	36	obl	_	_
+41	motus	motus	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
+42	.	.	PUNCT	u--------	_	17	punct	_	_
+
+# sent_id = TH-073
+# text = Sicut lignum ab igne per proprium calorem ipsius ignis calefit, et ille calor non est proprius ligno, sed praeter naturam ipsius;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_7,Sentence_1
+1	Sicut	sicut	ADV	d--------	_	10	advmod	_	_
+2	lignum	lignum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+3	ab	ab	ADP	r--------	_	4	case	_	_
+4	igne	ignis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	10	obl	_	_
+5	per	per	ADP	r--------	_	7	case	_	_
+6	proprium	proprius	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	amod	_	_
+7	calorem	calor	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+8	ipsius	ipse	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	9	det	_	_
+9	ignis	ignis	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+10	calefit	calefio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	17	punct	_	_
+12	et	et	CCONJ	c--------	_	17	cc	_	_
+13	ille	ille	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	det	_	_
+14	calor	calor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	_
+15	non	non	PART	d--------	_	17	advmod	_	_
+16	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
+17	proprius	proprius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	10	conj	_	_
+18	ligno	lignum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	17	obl	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	22	punct	_	_
+20	sed	sed	CCONJ	c--------	_	22	cc	_	_
+21	praeter	praeter	ADP	r--------	_	22	case	_	_
+22	naturam	natura	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	conj	_	_
+23	ipsius	ipse	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
+24	;	;	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = TH-074
+# text = in fine autem, quando iam lignum ignitum est, fit ei calor proprius et connaturalis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_7,Sentence_2
+1	in	in	ADP	r--------	_	2	case	_	_
+2	fine	finis	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	11	obl	_	_
+3	autem	autem	CCONJ	c--------	_	11	cc	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	8	punct	_	_
+5	quando	quando	SCONJ	d--------	_	8	mark	_	_
+6	iam	jam	ADV	d--------	_	8	advmod	_	_
+7	lignum	lignum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+8	ignitum	ignio	VERB	v-srppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+9	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	8	punct	_	_
+11	fit	fio	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	11	obl	_	_
+13	calor	calor	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+14	proprius	proprius	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	xcomp	_	_
+15	et	et	CCONJ	c--------	_	16	cc	_	_
+16	connaturalis	connaturalis	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	conj	_	SpaceAfter=No
+17	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = TH-075
+# text = Et similiter, cum aliquis a magistro docetur, oportet quod a principio conclusiones magistri non quasi eas per se intelligens, sed per modum credulitatis quasi supra suam capacitatem existentes teneat;
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_8,Sentence_1
+1	Et	et	CCONJ	c--------	_	10	cc	_	_
+2	similiter	similis	ADV	d--------	_	10	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	8	punct	_	_
+4	cum	cum	SCONJ	c--------	_	8	mark	_	_
+5	aliquis	aliquis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6	a	ab	ADP	r--------	_	7	case	_	_
+7	magistro	magister	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	8	obl	_	_
+8	docetur	doceo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	8	punct	_	_
+10	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	quod	quod	SCONJ	c--------	_	21	mark	_	_
+12	a	ab	ADP	r--------	_	13	case	_	_
+13	principio	principium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	21	orphan	_	_
+14	conclusiones	conclusio	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	21	orphan	_	_
+15	magistri	magister	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	_
+16	non	non	PART	d--------	_	21	advmod	_	_
+17	quasi	quasi	SCONJ	c--------	_	21	mark	_	_
+18	eas	is	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur|Person=3	21	obj	_	_
+19	per	per	ADP	r--------	_	20	case	_	_
+20	se	sui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obl	_	_
+21	intelligens	intellego	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	SpaceAfter=No
+22	,	,	PUNCT	u--------	_	32	punct	_	_
+23	sed	sed	CCONJ	c--------	_	32	cc	_	_
+24	per	per	ADP	r--------	_	25	case	_	_
+25	modum	modus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	32	obl	_	_
+26	credulitatis	credulitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	quasi	quasi	SCONJ	c--------	_	32	mark	_	_
+28	supra	supra	ADP	r--------	_	30	case	_	_
+29	suam	suus	DET	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	30	det	_	_
+30	capacitatem	capacitas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	31	obl	_	_
+31	existentes	exsisto	VERB	v-pppamn-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	advcl	_	_
+32	teneat	teneo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	SpaceAfter=No
+33	;	;	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = TH-076
+# text = in fine autem, quando iam edoctus fuerit, eas poterit intelligere non quasi alienas, sed ut proprias.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_8,Sentence_2
+1	in	in	ADP	r--------	_	2	case	_	_
+2	fine	finis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	_
+3	autem	autem	CCONJ	c--------	_	11	cc	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	7	punct	_	_
+5	quando	quando	SCONJ	c--------	_	7	mark	_	_
+6	iam	jam	ADV	d--------	_	7	advmod	_	_
+7	edoctus	edoceo	VERB	v-srppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	_
+8	fuerit	sum	AUX	v3stia---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7	aux	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	7	punct	_	_
+10	eas	is	PRON	p-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	_
+11	poterit	possum	VERB	v3sfia---	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
+12	intelligere	intellego	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	_
+13	non	non	PART	d--------	_	15	advmod	_	_
+14	quasi	quasi	SCONJ	c--------	_	15	mark	_	_
+15	alienas	alienus	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	advcl:cmpr	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	19	punct	_	_
+17	sed	sed	CCONJ	c--------	_	19	cc	_	_
+18	ut	ut	SCONJ	c--------	_	19	mark	_	_
+19	proprias	proprius	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	conj	_	SpaceAfter=No
+20	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = TH-077
+# text = Sicut autem ex dictis patet, auxilio divinae gratiae dirigimur in ultimum finem.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_9,Sentence_1
+1	Sicut	sicut	SCONJ	d--------	_	5	mark	_	_
+2	autem	autem	CCONJ	c--------	_	10	cc	_	_
+3	ex	ex	ADP	r--------	_	4	case	_	_
+4	dictis	dico	VERB	v-prppnb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	obl	_	_
+5	patet	pateo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl:cmpr	_	SpaceAfter=No
+6	,	,	PUNCT	u--------	_	10	punct	_	_
+7	auxilio	auxilium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	_
+8	divinae	divinus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	amod	_	_
+9	gratiae	gratia	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
+10	dirigimur	dirigo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+11	in	in	ADP	r--------	_	13	case	_	_
+12	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	amod	_	_
+13	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
+14	.	.	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = TH-078
+# text = Ultimus autem finis est manifesta visio Primae Veritatis in se ipsa:
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_9,Sentence_2
+1	Ultimus	ultimus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	_
+2	autem	autem	CCONJ	c--------	_	6	cc	_	_
+3	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
+5	manifesta	manifestus	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	_
+6	visio	visio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+7	Primae	primus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	amod	_	_
+8	Veritatis	veritas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	_
+9	in	in	ADP	r--------	_	10	case	_	_
+10	se	sui	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing|Person=3	8	obl	_	_
+11	ipsa	ipse	DET	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	10	det	_	SpaceAfter=No
+12	:	:	PUNCT	u--------	_	6	punct	_	_
+
+# sent_id = TH-079
+# text = oportet igitur quod, antequam ad istum finem veniatur, intellectus hominis Deo subdatur per modum credulitatis, divina gratia hoc faciente.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_9,Sentence_3
+1	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	igitur	igitur	PART	c--------	_	1	discourse	_	_
+3	quod	quod	SCONJ	c--------	_	14	mark	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	9	punct	_	_
+5	antequam	antequam	SCONJ	c--------	_	9	mark	_	_
+6	ad	ad	ADP	r--------	_	8	case	_	_
+7	istum	iste	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	det	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	_
+9	veniatur	venio	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	9	punct	_	_
+11	intellectus	intellectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+12	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	Deo	Deus	PROPN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+14	subdatur	subdo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	_
+15	per	per	ADP	r--------	_	16	case	_	_
+16	modum	modus	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+17	credulitatis	credulitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
+18	,	,	PUNCT	u--------	_	22	punct	_	_
+19	divina	divinus	ADJ	a-s---fb-	Case=Abl|Gender=Fem|Number=Sing	20	amod	_	_
+20	gratia	gratia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	nsubj	_	_
+21	hoc	hic	DET	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
+22	faciente	facio	VERB	v-sppafb-	Case=Abl|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-080
+# text = Hinc est quod Apostolus dicit: «Gratia salvati estis per fidem. Et hoc non ex nobis, Dei enim donum est».
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_10,Sentence_1
+1	Hinc	hinc	ADV	d--------	_	2	advmod	_	_
+2	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+4	Apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	SpaceAfter=No
+6	:	:	PUNCT	u--------	_	9	punct	_	_
+7	«	«	PUNCT	u--------	_	9	punct	_	SpaceAfter=No
+8	Gratia	gratia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	9	obl	_	_
+9	salvati	salvo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+10	estis	sum	AUX	v2ppia---	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+11	per	per	ADP	r--------	_	12	case	_	_
+12	fidem	fides	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
+13	.	.	PUNCT	u--------	_	9	punct	_	_
+14	Et	et	CCONJ	c--------	_	18	cc	_	_
+15	hoc	hic	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+16	non	non	PART	d--------	_	18	orphan	_	_
+17	ex	ex	ADP	r--------	_	18	case	_	_
+18	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	9	parataxis	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	16	punct	_	_
+20	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	22	nmod	_	_
+21	enim	enim	PART	c--------	_	22	discourse	_	_
+22	donum	donum	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	18	conj	_	_
+23	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	SpaceAfter=No
+24	»	»	PUNCT	u--------	_	9	punct	_	SpaceAfter=No
+25	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-081
+# text = Per hoc autem excluditur error pelagianorum, qui dicebant quod initium fidei in nobis non erat a Deo sed ex nobis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxvii,Paragraphus_10,Sentence_2
+1	Per	per	ADP	r--------	_	2	case	_	_
+2	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
+3	autem	autem	CCONJ	c--------	_	4	cc	_	_
+4	excluditur	excludo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	error	error	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	pelagianorum	pelagianus	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	u--------	_	9	punct	_	_
+8	qui	qui	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
+9	dicebant	dico	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	_
+10	quod	quod	SCONJ	c--------	_	18	mark	_	_
+11	initium	initium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+12	fidei	fides	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	in	in	ADP	r--------	_	14	case	_	_
+14	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	11	obl	_	_
+15	non	non	PART	d--------	_	18	advmod	_	_
+16	erat	sum	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
+17	a	ab	ADP	r--------	_	18	case	_	_
+18	Deo	Deus	PROPN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	9	ccomp	_	_
+19	sed	sed	CCONJ	c--------	_	21	cc	_	_
+20	ex	ex	ADP	r--------	_	21	case	_	_
+21	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=1	18	conj	_	SpaceAfter=No
+22	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-082
+# text = Ex eisdem etiam ostendi potest quod oportet per gratiam in nobis spem futurae beatitudinis causari.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_1,Sentence_1
+1	Ex	ex	ADP	r--------	_	2	case	_	_
+2	eisdem	idem	PRON	p-p---nb-	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	_
+3	etiam	etiam	ADV	c--------	_	5	advmod	_	_
+4	ostendi	ostendo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+5	potest	possum	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	quod	qui	SCONJ	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	mark	_	_
+7	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+8	per	per	ADP	r--------	_	9	case	_	_
+9	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	_
+10	in	in	ADP	r--------	_	11	case	_	_
+11	nobis	nos	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur|Person=3	15	obl	_	_
+12	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	15	nsubj	_	_
+13	futurae	futurus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	amod	_	_
+14	beatitudinis	beatitudo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	causari	causo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	7	csubj	_	SpaceAfter=No
+16	.	.	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-083
+# text = In omni enim diligente causatur desiderium ut uniatur eius dilectio in quantum possibile est:
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_2,Sentence_1
+1	In	in	ADP	r--------	_	2	case	_	_
+2	omni	omnis	DET	a-s---nb-	Case=Abl|Gender=Neut|Number=Sing	5	obl	_	_
+3	enim	enim	PART	c--------	_	5	discourse	_	_
+4	diligente	diligo	VERB	v-sppamb-	Case=Abl|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+5	causatur	causo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	desiderium	desiderium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+7	ut	ut	SCONJ	c--------	_	8	mark	_	_
+8	uniatur	unio	VERB	v3spip---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	advcl	_	_
+9	eius	is	PRON	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
+10	dilectio	dilectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+11	in	in	ADP	r--------	_	13	mark	_	_
+12	quantum	quantus	DET	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	fixed	_	_
+13	possibile	possibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	advcl	_	_
+14	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	SpaceAfter=No
+15	:	:	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-084
+# text = et hinc est quod delectabilissimum est amicis convivere.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_2,Sentence_2
+1	et	et	CCONJ	c--------	_	3	cc	_	_
+2	hinc	hinc	ADV	d--------	_	3	advmod	_	_
+3	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	quod	qui	SCONJ	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	8	mark	_	_
+5	delectabilissimum	delectabilis	ADJ	a-s---nn-	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	8	xcomp	_	_
+6	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+7	amicis	amicus	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	8	obl	_	_
+8	convivere	convivo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	SpaceAfter=No
+9	.	.	PUNCT	u--------	_	3	punct	_	_
+
+# sent_id = TH-085
+# text = Si ergo per gratiam homo Dei dilector constituitur, oportet quod in eo causetur desiderium unionis ad Deum secundum quod est possibile.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_2,Sentence_3
+1	Si	si	SCONJ	c--------	_	8	mark	_	_
+2	ergo	ergo	ADV	c--------	_	10	discourse	_	_
+3	per	per	ADP	r--------	_	4	case	_	_
+4	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+5	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+6	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
+7	dilector	dilector	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	_
+8	constituitur	constituo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	10	punct	_	_
+10	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	quod	quod	SCONJ	c--------	_	14	mark	_	_
+12	in	in	ADP	r--------	_	13	case	_	_
+13	eo	is	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|Person=3	14	obl	_	_
+14	causetur	causo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	csubj	_	_
+15	desiderium	desiderium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+16	unionis	unio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
+17	ad	ad	ADP	r--------	_	18	case	_	_
+18	Deum	Deus	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	_
+19	secundum	secundum	ADP	r--------	_	22	mark	_	_
+20	quod	quod	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+21	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
+22	possibile	possibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	20	acl	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	10	punct	_	_
+
+# sent_id = TH-086
+# text = Fides autem, quae causatur ex gratia, declarat possibilem esse unionem hominis ad Deum secundum perfectam fruitionem in qua beatitudo consistit.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_3,Sentence_1
+1	Fides	fides	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+2	autem	autem	CCONJ	c--------	_	9	cc	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	5	punct	_	_
+4	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+5	causatur	causo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	_
+6	ex	ex	ADP	r--------	_	7	case	_	_
+7	gratia	gratia	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	5	punct	_	_
+9	declarat	declaro	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	possibilem	possibilis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	ccomp	_	_
+11	esse	sum	AUX	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	10	cop	_	_
+12	unionem	unio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	nsubj	_	_
+13	hominis	homo	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
+14	ad	ad	ADP	r--------	_	15	case	_	_
+15	Deum	Deus	PROPN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
+16	secundum	secundum	ADP	r--------	_	18	case	_	_
+17	perfectam	perfectus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	amod	_	_
+18	fruitionem	fruitio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+19	in	in	ADP	r--------	_	20	case	_	_
+20	qua	qui	PRON	p-s---fb-	Case=Abl|Gender=Fem|Number=Sing	22	obl	_	_
+21	beatitudo	beatitudo	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	22	nsubj	_	_
+22	consistit	consisto	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	SpaceAfter=No
+23	.	.	PUNCT	u--------	_	9	punct	_	_
+
+# sent_id = TH-087
+# text = Huius ergo fruitionis desiderium in hominem consequitur ex Dei dilectionem;
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_4,Sentence_1
+1	Huius	hic	DET	a-s---fg-	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+2	ergo	ergo	ADV	c--------	_	7	discourse	_	_
+3	fruitionis	fruitio	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
+4	desiderium	desiderium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+5	in	in	ADP	r--------	_	6	case	_	_
+6	hominem	homo	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	_
+7	consequitur	consequor	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	ex	ex	ADP	r--------	_	10	case	_	_
+9	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+10	dilectionem	dilectio	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	;	;	PUNCT	u--------	_	7	punct	_	_
+
+# sent_id = TH-088
+# text = sed desiderium rei alicuius molestat animam desiderantis nisi adsit spes de consequendo eo quod desiderat :
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_4,Sentence_2
+1	sed	sed	CCONJ	c--------	_	5	cc	_	_
+2	desiderium	desiderium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+3	rei	res	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	alicuius	aliquis	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing	3	det	_	_
+5	molestat	molesto	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	animam	anima	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+7	desiderantis	desidero	VERB	v-sppamg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	nmod	_	_
+8	nisi	nisi	SCONJ	c--------	_	9	mark	_	_
+9	adsit	adsum	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	_
+10	spes	spes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+11	de	de	ADP	r--------	_	12	mark	_	_
+12	consequendo	consequor	VERB	v-s---mb-	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Gdv	9	advcl	_	_
+13	eo	is	PRON	p-s---mb-	Case=Abl|Gender=Neut|Number=Sing|Person=3	12	obj	_	_
+14	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+15	desiderat	desidero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	SpaceAfter=No
+16	:	:	PUNCT	u--------	_	5	punct	_	_
+
+# sent_id = TH-089
+# text = conveniens igitur fuit quod in hominibus in quibus Dei dilectio et fides causantur per gratiam, quod etiam causetur spes futurae beatitudinis adipiscendae.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_4,Sentence_3
+1	conveniens	conveniens	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	igitur	igitur	PART	c--------	_	1	discourse	_	_
+3	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
+4	quod	quod	SCONJ	c--------	_	19	mark	_	_
+5	in	in	ADP	r--------	_	6	case	_	_
+6	hominibus	homo	NOUN	n-p---mb-	Case=Abl|Gender=Masc|Number=Plur	1	obl	_	_
+7	in	in	ADP	r--------	_	8	case	_	_
+8	quibus	qui	PRON	p-p---mb-	Case=Abl|Gender=Masc|Number=Plur	13	obl	_	_
+9	Dei	Deus	PROPN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+10	dilectio	dilectio	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
+11	et	et	CCONJ	c--------	_	12	cc	_	_
+12	fides	fides	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	_
+13	causantur	causo	VERB	v3ppip---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	acl	_	_
+14	per	per	ADP	r--------	_	15	case	_	_
+15	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	19	punct	_	_
+17	quod	quod	SCONJ	c--------	_	19	mark	_	_
+18	etiam	etiam	ADV	d--------	_	19	advmod	_	_
+19	causetur	causo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	_
+20	spes	spes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	_
+21	futurae	futurus	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	22	amod	_	_
+22	beatitudinis	beatitudo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
+23	adipiscendae	adipiscor	VERB	v-s---fg-	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Gdv	22	acl	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	1	punct	_	_
+
+# sent_id = TH-090
+# text = Item, in his quae ordinantur ad aliquem finem desideratum, si aliqua difficultas emerserit, solatium affert spes de fine consequendo: sicut amaritudinem medicinae aliquis leviter fert propter spem consequendae sanitatis.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_5,Sentence_1
+1	Item	item	ADV	d--------	_	18	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	u--------	_	1	punct	_	_
+3	in	in	ADP	r--------	_	4	case	_	_
+4	his	hic	PRON	p-p---nb-	Case=Abl|Gender=Neut|Number=Plur	18	obl	_	_
+5	quae	qui	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+6	ordinantur	ordino	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl	_	_
+7	ad	ad	ADP	r--------	_	9	case	_	_
+8	aliquem	aliqui	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	det	_	_
+9	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+10	desideratum	desidero	VERB	v-srppma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	acl	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	15	punct	_	_
+12	si	si	SCONJ	c--------	_	15	mark	_	_
+13	aliqua	aliquis	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
+14	difficultas	difficultas	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	_
+15	emerserit	emergo	VERB	v3srsa---	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	u--------	_	15	punct	_	_
+17	solatium	solatius	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+18	affert	affero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	spes	spes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	_
+20	de	de	ADP	r--------	_	22	mark	_	_
+21	fine	finis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	22	obj	_	_
+22	consequendo	consequor	VERB	v-s---mb-	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Gdv	18	advcl	_	SpaceAfter=No
+23	:	:	PUNCT	u--------	_	29	punct	_	_
+24	sicut	sicut	adv	d--------	_	29	advmod	_	_
+25	amaritudinem	amaritudo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+26	medicinae	medicina	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
+27	aliquis	aliquis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	29	nsubj	_	_
+28	leviter	levis	ADV	d--------	_	29	advmod	_	_
+29	fert	fero	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	parataxis	_	_
+30	propter	propter	ADP	r--------	_	31	case	_	_
+31	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	_
+32	consequendae	consequor	VERB	v-s---fg-	Case=Gen|Gender=Fem|Number=Sing|VerbForm=Gdv	33	acl	_	_
+33	sanitatis	sanitas	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	31	nmod	_	SpaceAfter=No
+34	.	.	PUNCT	u--------	_	18	punct	_	_
+
+# sent_id = TH-091
+# text = In processu autem quo in beatitudinem tendimus, quae est finis omnium desideriorum nostrorum, multa difficilia imminent sustinenda :
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_5,Sentence_2
+1	In	in	ADP	r--------	_	2	case	_	_
+2	processu	processus	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	18	obl	_	_
+3	autem	autem	CCONJ	c--------	_	18	cc	_	_
+4	quo	qui	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	_
+5	in	in	ADP	r--------	_	6	case	_	_
+6	beatitudinem	beatitudo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	_
+7	tendimus	tendo	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	SpaceAfter=No
+8	,	,	PUNCT	u--------	_	11	punct	_	_
+9	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+10	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	finis	finis	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	acl	_	_
+12	omnium	omnis	DET	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	13	det	_	_
+13	desideriorum	desiderium	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	11	nmod	_	_
+14	nostrorum	noster	DET	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	13	det	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	11	punct	_	_
+16	multa	multus	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	17	amod	_	_
+17	difficilia	difficilis	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	18	nsubj	_	_
+18	imminent	immineo	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+19	sustinenda	sustineo	VERB	v-p---nn-	Case=Nom|Gender=Neut|Number=Plur|VerbForm=Gdv	17	acl	_	SpaceAfter=No
+20	:	:	PUNCT	u--------	_	18	punct	_	_
+
+# sent_id = TH-092
+# text = nam virtus, per quam ad beatitudinem itur, circa difficilia est.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_5,Sentence_3
+1	nam	nam	PART	c--------	_	11	discourse	_	_
+2	virtus	virtus	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	u--------	_	8	punct	_	_
+4	per	per	ADP	r--------	_	5	case	_	_
+5	quam	qui	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+6	ad	ad	ADP	r--------	_	7	case	_	_
+7	beatitudinem	beatitudo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
+8	itur	eo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	acl	_	SpaceAfter=No
+9	,	,	PUNCT	u--------	_	8	punct	_	_
+10	circa	circa	ADP	r--------	_	11	case	_	_
+11	difficilia	difficilis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
+12	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	SpaceAfter=No
+13	.	.	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = TH-093
+# text = Ad hoc igitur quod levius et promptius homo in beatitudinem tenderet, necessarium fuit ei de obtinenda beatitudine spem habere.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_5,Sentence_4
+1	Ad	ad	ADP	r--------	_	2	case	_	_
+2	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
+3	igitur	igitur	PART	d--------	_	13	discourse	_	_
+4	quod	quod	SCONJ	c--------	_	11	mark	_	_
+5	levius	levis	ADV	d-------c	Degree=Cmp	11	advmod	_	_
+6	et	et	CCONJ	c--------	_	7	cc	_	_
+7	promptius	promptus	ADV	d-------c	Degree=Cmp	5	conj	_	_
+8	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	in	in	ADP	r--------	_	10	case	_	_
+10	beatitudinem	beatitudo	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	_
+11	tenderet	tendo	VERB	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	u--------	_	11	punct	_	_
+13	necessarium	necessarius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+14	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+15	ei	is	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=3	20	obl	_	_
+16	de	de	ADP	r--------	_	17	mark	_	_
+17	obtinenda	obtineo	VERB	v-s---fb-	Case=Abl|Gender=Fem|Number=Sing|VerbForm=Gdv	20	advcl	_	_
+18	beatitudine	beatitudo	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	17	obj	_	_
+19	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	_
+20	habere	habeo	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	13	csubj	_	SpaceAfter=No
+21	.	.	PUNCT	u--------	_	13	punct	_	_
+
+# sent_id = TH-094
+# text = Et ideo gratia, quae in ultimum finem beatitudinis hominem dirigit et ordinat, in eo spem de fine ultimo consequendo rationabiliter causat.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_6,Sentence_1
+1	Et	et	CCONJ	c--------	_	23	cc	_	_
+2	ideo	ideo	ADV	d--------	_	23	discourse	_	_
+3	gratia	gratia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	u--------	_	11	punct	_	_
+5	quae	qui	PRON	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+6	in	in	ADP	r--------	_	8	case	_	_
+7	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	amod	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+9	beatitudinis	beatitudo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	hominem	homo	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+11	dirigit	dirigo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
+12	et	et	CCONJ	c--------	_	13	cc	_	_
+13	ordinat	ordino	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	SpaceAfter=No
+14	,	,	PUNCT	u--------	_	11	punct	_	_
+15	in	in	ADP	r--------	_	16	case	_	_
+16	eo	is	PRON	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|Person=3	23	obl	_	_
+17	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	_
+18	de	de	ADP	r--------	_	21	mark	_	_
+19	fine	finis	NOUN	n-s---mb-	Case=Abl|Gender=Masc|Number=Sing	21	obj	_	_
+20	ultimo	ultimus	ADJ	a-s---mb-	Case=Abl|Degree=Sup|Gender=Masc|Number=Sing	19	amod	_	_
+21	consequendo	consequor	VERB	v-s---mb-	Case=Abl|Gender=Masc|Number=Sing|VerbForm=Gdv	23	advcl	_	_
+22	rationabiliter	rationabiliter	ADV	d--------	_	23	advmod	_	_
+23	causat	causo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	23	punct	_	_
+
+# sent_id = TH-095
+# text = Rursus etiam nullus movetur ad finem ad quem extimat impossibile perveniri;
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_6,Sentence_2
+1	Rursus	rursus	ADV	d--------	_	4	advmod	_	_
+2	etiam	etiam	ADV	c--------	_	4	advmod	_	_
+3	nullus	nullus	DET	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	movetur	moveo	VERB	v3spip---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	ad	ad	ADP	r--------	_	6	case	_	_
+6	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
+7	ad	ad	ADP	r--------	_	8	case	_	_
+8	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
+9	extimat	extimo	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	_
+10	impossibile	impossibilis	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	11	xcomp	_	_
+11	perveniri	pervenio	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	9	xcomp	_	SpaceAfter=No
+12	;	;	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-096
+# text = ad hoc igitur quod aliquis pergat in finem aliquem, oportet quod afficiatur ad finem illum tanquam possibilem haberi:
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_6,Sentence_3
+1	ad	ad	ADP	r--------	_	2	case	_	_
+2	hoc	hic	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
+3	igitur	igitur	PART	d--------	_	11	discourse	_	_
+4	quod	quod	SCONJ	c--------	_	6	mark	_	_
+5	aliquis	aliquis	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	pergat	pergo	VERB	v3spsa---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	_
+7	in	in	ADP	r--------	_	8	case	_	_
+8	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+9	aliquem	aliquis	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	det	_	SpaceAfter=No
+10	,	,	PUNCT	u--------	_	6	punct	_	_
+11	oportet	oportet	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	quod	quod	SCONJ	c--------	_	13	mark	_	_
+13	afficiatur	afficio	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	csubj	_	_
+14	ad	ad	ADP	r--------	_	15	case	_	_
+15	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+16	illum	ille	DET	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	det	_	_
+17	tanquam	tamquam	SCONJ	d--------	_	18	mark	_	_
+18	possibilem	possibilis	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	15	advcl:cmpr	_	_
+19	haberi	habeo	VERB	v--pnp---	Tense=Pres|VerbForm=Inf|Voice=Pass	18	xcomp	_	SpaceAfter=No
+20	:	:	PUNCT	u--------	_	11	punct	_	_
+
+# sent_id = TH-097
+# text = et hic est affectus spei.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_6,Sentence_4
+1	et	et	CCONJ	c--------	_	4	cc	_	_
+2	hic	hic	DET	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+3	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	affectus	affectus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+5	spei	spes	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+6	.	.	PUNCT	u--------	_	4	punct	_	_
+
+# sent_id = TH-098
+# text = Cum igitur per gratiam dirigatur homo in ultimum finem beatitudinis, necessarium fuit ut per gratiam imprimeretur humano affectui spes de beatitudine consequenda.
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_7,Sentence_1
+1	Cum	cum	SCONJ	c--------	_	5	mark	_	_
+2	igitur	igitur	PART	d--------	_	12	discourse	_	_
+3	per	per	ADP	r--------	_	4	case	_	_
+4	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
+5	dirigatur	dirigo	VERB	v3spsp---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	_
+6	homo	homo	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+7	in	in	ADP	r--------	_	9	case	_	_
+8	ultimum	ultimus	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	_
+9	finem	finis	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	_
+10	beatitudinis	beatitudo	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	u--------	_	1	punct	_	_
+12	necessarium	necessarius	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+13	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
+14	ut	ut	SCONJ	c--------	_	17	mark	_	_
+15	per	per	ADP	r--------	_	16	case	_	_
+16	gratiam	gratia	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obl	_	_
+17	imprimeretur	imprimo	VERB	v3sisp---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	csubj	_	_
+18	humano	humanus	ADJ	a-s---md-	Case=Dat|Gender=Masc|Number=Sing	19	amod	_	_
+19	affectui	affectus	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	17	obl	_	_
+20	spes	spes	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+21	de	de	ADP	r--------	_	23	mark	_	_
+22	beatitudine	beatitudo	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	23	obj	_	_
+23	consequenda	consequor	VERB	v-s---fb-	Case=Abl|Gender=Fem|Number=Sing|VerbForm=Gdv	17	advcl	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	12	punct	_	_
+
+# sent_id = TH-099
+# text = Hinc est quod dicit apostolus beatus Petrus: «Regeneravit nos in spem vivam, in hereditatem immarcescibilem, conservatam in caelis».
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_8,Sentence_1
+1	Hinc	hinc	ADV	d--------	_	2	advmod	_	_
+2	est	sum	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quod	qui	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	dicit	dico	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	_
+5	apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+6	beatus	beatus	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	amod	_	_
+7	Petrus	Petrus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	flat	_	SpaceAfter=No
+8	:	:	PUNCT	u--------	_	10	punct	_	_
+9	«	«	PUNCT	u--------	_	10	punct	_	SpaceAfter=No
+10	Regeneravit	regenero	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+11	nos	nos	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|Person=1	10	obj	_	_
+12	in	in	ADP	r--------	_	13	case	_	_
+13	spem	spes	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+14	vivam	vivus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	17	punct	_	_
+16	in	in	ADP	r--------	_	17	case	_	_
+17	hereditatem	hereditas	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	_
+18	immarcescibilem	immarcescibilis	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
+19	,	,	PUNCT	u--------	_	20	punct	_	_
+20	conservatam	conservo	VERB	v-srppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	17	acl	_	_
+21	in	in	ADP	r--------	_	22	case	_	_
+22	caelis	caelum	NOUN	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	20	obl	_	SpaceAfter=No
+23	»	»	PUNCT	u--------	_	10	punct	_	SpaceAfter=No
+24	.	.	PUNCT	u--------	_	2	punct	_	_
+
+# sent_id = TH-100
+# text = Et apostolus Paulus: «Spe salvi facti sumus».
+# citation_hierarchy = Liber_Primus,Capitulum_xxviii,Paragraphus_9,Sentence_1
+1	Et	et	CCONJ	c--------	_	2	cc	_	_
+2	apostolus	apostolus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+3	Paulus	Paulus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	SpaceAfter=No
+4	:	:	PUNCT	u--------	_	8	punct	_	_
+5	«	«	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+6	Spe	spes	NOUN	n-s---fb-	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
+7	salvi	salvus	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	xcomp	_	_
+8	facti	facio	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	parataxis	_	_
+9	sumus	sum	AUX	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	SpaceAfter=No
+10	»	»	PUNCT	u--------	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	u--------	_	2	punct	_	_
