@@ -1,5 +1,5 @@
 # THTB
-Theosophia Treebank (beta)
+Theosophia Treebank (beta_230131)
 
 About:
 THTB is the first Treebank of “Theosophia”, a medieval Latin religious treatise attributable to Iacopo Passavanti OP. Conceived as a resource for in-depth analysis of the language of the work in question, THTB also constitutes a tool for the study of the relationships between the author’s language, the language of his major source (Thomas Aquinas), and the language of medieval Latin coeval texts (e.g. Dante) for which similar computational models are available (ITTB, UDante)
@@ -19,7 +19,7 @@ Latin, 14th c.
 Genre:
 Religious Literature, prose
 
-Text processed [last update: 221114]:
+Text processed:
 “Theosophia”, Book I, Chapters 22, 24, 26, 27, and 28. These chapters subtend Thomas Aquinas’ “Summa Contra Gentiles” as follows: 
 1. Th., I, 22: § 1-3 Quamvis ~ faciat peccare = Tho., SCG, 3, 162, 1-2; § 3 bonum autem ~ peccandi = Tho., SCG, 3, 162, 3; § 4-15 Et preterea ~ dicta sunt = Tho., SCG, 3, 162, 5-8; § 16-25 Et quia ~ amen = Tho., SCG, 3, 163, 1-4; § 25 «Quis ~ amen» = cf. Tho., ST, 1-2, 114, 1 and 3
 2. Th., I, 24: § 1-3 Ex hiis ~ peccatum = Tho., SCG, 3, 156, 1-3; § 4-7 Amplius ~ potest = Tho., SCG, 3, 156, 7-9
